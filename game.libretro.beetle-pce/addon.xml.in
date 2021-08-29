@@ -18,6 +18,5 @@
 		<platform>@PLATFORM@</platform>
 		<source>https://github.com/kodi-game/game.libretro.beetle-pce</source>
 		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE) v0.9.48</summary>
-		<description lang="en_GB"></description>
 	</extension>
 </addon>
