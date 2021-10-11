@@ -25,6 +25,6 @@
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
 		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE) v0.9.48</summary>
-		<description lang="en_GB">Beetle PC Engine is a fork of Mednafen&#39;s PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed.</description>
+		<description lang="en_GB">Beetle PC Engine is a fork of Mednafen's PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed.</description>
 	</extension>
 </addon>
