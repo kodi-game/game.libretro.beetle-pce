@@ -21,7 +21,7 @@ msgid "NEC - PC Engine / SuperGrafx / CD (Beetle PCE) v0.9.48"
 msgstr ""
 
 msgctxt "Addon Description"
-msgid "Beetle PC Engine is a fork of Mednafen&#39;s PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed."
+msgid "Beetle PC Engine is a fork of Mednafen's PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed."
 msgstr ""
 
 msgctxt "#30000"
