@@ -5,7 +5,7 @@
 
 ### Description
 
-Beetle PC Engine is a fork of Mednafen's PC Engine driver.
+Beetle PC Engine is a fork of Mednafen&apos;s PC Engine driver.
 
 This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed.
 
