@@ -30,7 +30,7 @@ msgid "Settings"
 msgstr "설정"
 
 msgctxt "#30001"
-msgid "Colour Palette"
+msgid "Color Palette"
 msgstr ""
 
 msgctxt "#30002"
@@ -42,7 +42,7 @@ msgid "Resolution Scaling"
 msgstr ""
 
 msgctxt "#30004"
-msgid "Hires Blending Strength"
+msgid "High Resolution Blending Strength"
 msgstr ""
 
 msgctxt "#30005"
@@ -58,121 +58,121 @@ msgid "Last Scanline"
 msgstr ""
 
 msgctxt "#30008"
-msgid "PSG Audio Chip (Restart)"
+msgid "PSG Audio Chip (Restart Required)"
 msgstr ""
 
 msgctxt "#30009"
-msgid "(CD) CDDA Volume %"
-msgstr ""
-
-msgctxt "#30010"
-msgid "(CD) ADPCM Volume %"
-msgstr ""
-
-msgctxt "#30011"
-msgid "(CD) CD PSG Volume %"
-msgstr ""
-
-msgctxt "#30012"
-msgid "(CD) ADPCM precision"
-msgstr ""
-
-msgctxt "#30013"
 msgid "Owl Resampler Quality"
 msgstr ""
 
-msgctxt "#30014"
+msgctxt "#30010"
 msgid "Mouse Sensitivity"
 msgstr ""
 
-msgctxt "#30015"
-msgid "Multitap 5-port Controller"
+msgctxt "#30011"
+msgid "Allow Opposing Directions"
 msgstr ""
 
-msgctxt "#30016"
-msgid "Allow UP+DOWN/LEFT+RIGHT"
-msgstr ""
-
-msgctxt "#30017"
-msgid "Turbo Delay"
-msgstr ""
-
-msgctxt "#30018"
-msgid "Turbo Hotkey"
-msgstr ""
-
-msgctxt "#30019"
-msgid "Alternate Turbo Hotkey"
-msgstr ""
-
-msgctxt "#30020"
-msgid "P1 Turbo I"
-msgstr ""
-
-msgctxt "#30021"
-msgid "P1 Turbo II"
-msgstr ""
-
-msgctxt "#30022"
-msgid "P2 Turbo I"
-msgstr ""
-
-msgctxt "#30023"
-msgid "P2 Turbo II"
-msgstr ""
-
-msgctxt "#30024"
-msgid "P3 Turbo I"
-msgstr ""
-
-msgctxt "#30025"
-msgid "P3 Turbo II"
-msgstr ""
-
-msgctxt "#30026"
-msgid "P4 Turbo I"
-msgstr ""
-
-msgctxt "#30027"
-msgid "P4 Turbo II"
-msgstr ""
-
-msgctxt "#30028"
-msgid "P5 Turbo I"
-msgstr ""
-
-msgctxt "#30029"
-msgid "P5 Turbo II"
-msgstr ""
-
-msgctxt "#30030"
+msgctxt "#30012"
 msgid "Disable Soft Reset (RUN+SELECT)"
 msgstr ""
 
+msgctxt "#30013"
+msgid "Multitap 5-port Controller"
+msgstr ""
+
+msgctxt "#30014"
+msgid "Show Advanced Input/Turbo Settings"
+msgstr ""
+
+msgctxt "#30015"
+msgid "Turbo Hotkey Mode"
+msgstr ""
+
+msgctxt "#30016"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
+
+msgctxt "#30017"
+msgid "Turbo Speed"
+msgstr ""
+
+msgctxt "#30018"
+msgid "P1 Turbo I"
+msgstr ""
+
+msgctxt "#30019"
+msgid "P1 Turbo II"
+msgstr ""
+
+msgctxt "#30020"
+msgid "P2 Turbo I"
+msgstr ""
+
+msgctxt "#30021"
+msgid "P2 Turbo II"
+msgstr ""
+
+msgctxt "#30022"
+msgid "P3 Turbo I"
+msgstr ""
+
+msgctxt "#30023"
+msgid "P3 Turbo II"
+msgstr ""
+
+msgctxt "#30024"
+msgid "P4 Turbo I"
+msgstr ""
+
+msgctxt "#30025"
+msgid "P4 Turbo II"
+msgstr ""
+
+msgctxt "#30026"
+msgid "P5 Turbo I"
+msgstr ""
+
+msgctxt "#30027"
+msgid "P5 Turbo II"
+msgstr ""
+
+msgctxt "#30028"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
+
+msgctxt "#30029"
+msgid "CD Bios (Restart Required)"
+msgstr ""
+
+msgctxt "#30030"
+msgid "Arcade Card (Restart Required)"
+msgstr ""
+
 msgctxt "#30031"
-msgid "No Sprite Limit"
-msgstr ""
-
-msgctxt "#30032"
-msgid "CPU Overclock Multiplier"
-msgstr ""
-
-msgctxt "#30033"
-msgid "CD Image Cache (Restart)"
-msgstr ""
-
-msgctxt "#30034"
-msgid "CD Bios (Restart)"
-msgstr ""
-
-msgctxt "#30035"
-msgid "Arcade Card (Restart)"
-msgstr ""
-
-msgctxt "#30036"
 msgid "(CD) CD Speed"
 msgstr ""
 
+msgctxt "#30032"
+msgid "(CD) ADPCM precision"
+msgstr ""
+
+msgctxt "#30033"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30034"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30035"
+msgid "(CD) CD PSG Volume %"
+msgstr ""
+
+msgctxt "#30036"
+msgid "No Sprite Limit"
+msgstr ""
+
 msgctxt "#30037"
-msgid "Show Advanced Input/Turbo Settings"
+msgid "CPU Overclock Multiplier"
 msgstr ""
