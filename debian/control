@@ -4,7 +4,7 @@ Maintainer: wsnipex <wsnipex@a1.net>
 Build-Depends: debhelper (>= 9.0.0),
                cmake,
                kodi-addon-dev,
-               libretro-beetle-pce (>= 0.9.48) | beetle-pce (>= 0.9.48)
+               libretro-beetle-pce (>= 1.29.0) | beetle-pce (>= 1.29.0)
 Standards-Version: 3.9.8
 Section: libs
 
