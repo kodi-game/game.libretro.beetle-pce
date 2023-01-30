@@ -27,6 +27,7 @@
 		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE) v0.9.48</summary>
 		<description lang="da_DK">Beetle PC Engine er en fork af Mednafens PC Engine-driver.[CR][CR]Dette PC Engine-modul er mere præcist end Beetle PC Engine Fast-modulet på bekostning af hastighed.</description>
 		<description lang="en_GB">Beetle PC Engine is a fork of Mednafen&apos;s PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed.</description>
+		<description lang="es_ES">Beetle PC Engine es una bifurcación del controlador PC Engine de Mednafen[CR][CR]Este módulo PC Engine es más preciso que el módulo Beetle PC Engine Fast, a expensas de la velocidad.</description>
 		<description lang="zh_CN">Beetle PC 引擎是 Mednafen 的 PC 引擎驱动程序的一个分支。[CR][CR]此 PC 引擎模块以速度为代价，取得比 Beetle PC 引擎快速模块更精确的效果。</description>
 	</extension>
 </addon>
