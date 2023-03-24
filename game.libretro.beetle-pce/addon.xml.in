@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addon id="game.libretro.beetle-pce"
 		name="NEC - PC Engine / SuperGrafx / CD (Beetle PCE)"
-		version="1.29.0.16"
+		version="1.29.0.17"
 		provider-name="Mednafen Team">
 	<requires>
 		<import addon="game.libretro" version="1.0.0"/>
@@ -24,7 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
-		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE) v0.9.48</summary>
+		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE)</summary>
 		<description lang="da_DK">Beetle PC Engine er en fork af Mednafens PC Engine-driver.[CR][CR]Dette PC Engine-modul er mere præcist end Beetle PC Engine Fast-modulet på bekostning af hastighed.</description>
 		<description lang="de_DE">Beetle PC Engine ist ein Ableger des PC-Engine-Treibers von Mednafen[CR][CR]Dieses PC-Engine-Modul ist genauer als das Beetle PC-Engine-Fast-Modul, allerdings auf Kosten der Geschwindigkeit.</description>
 		<description lang="en_GB">Beetle PC Engine is a fork of Mednafen&apos;s PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed.</description>
