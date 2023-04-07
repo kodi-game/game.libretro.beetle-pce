@@ -1,1 +1,1 @@
-beetle-pce https://github.com/libretro/beetle-pce-libretro/archive/3a5e402490c98f543887869975f01b5c2f76a12a.tar.gz
+beetle-pce https://github.com/libretro/beetle-pce-libretro/archive/c01874a3f313624624b0a119883b697e0d1b3bea.tar.gz
