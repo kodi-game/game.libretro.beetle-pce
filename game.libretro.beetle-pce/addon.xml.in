@@ -24,6 +24,7 @@
 			<screenshot>resources/screenshot-02.jpg</screenshot>
 			<screenshot>resources/screenshot-03.jpg</screenshot>
 		</assets>
+		<summary lang="da_DK">NEC - PC Engine / SuperGrafx / CD (Beetle PCE)</summary>
 		<summary lang="en_GB">NEC - PC Engine / SuperGrafx / CD (Beetle PCE)</summary>
 		<summary lang="es_ES">NEC - PC Engine / SuperGrafx / CD (Beetle PCE)</summary>
 		<description lang="da_DK">Beetle PC Engine er en fork af Mednafens PC Engine-driver.[CR][CR]Dette PC Engine-modul er mere præcist end Beetle PC Engine Fast-modulet på bekostning af hastighed.</description>
