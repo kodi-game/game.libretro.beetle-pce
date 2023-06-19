@@ -66,116 +66,248 @@ msgid "Owl Resampler Quality"
 msgstr "Kvalitet af Owl resampler"
 
 msgctxt "#30010"
-msgid "Mouse Sensitivity"
-msgstr "Musens følsomhed"
+msgid "Show Advanced Input/Turbo Settings"
+msgstr ""
 
 msgctxt "#30011"
-msgid "Allow Opposing Directions"
-msgstr "Tillad modsatte retninger"
+msgid "Mouse Sensitivity"
+msgstr ""
 
 msgctxt "#30012"
-msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Deaktiver blød nulstilling (RUN+SELECT)"
+msgid "Allow Opposing Directions"
+msgstr ""
 
 msgctxt "#30013"
-msgid "Multitap 5-port Controller"
-msgstr "Multitap 5-ports controller"
+msgid "Disable Soft Reset (RUN+SELECT)"
+msgstr ""
 
 msgctxt "#30014"
-msgid "Show Advanced Input/Turbo Settings"
-msgstr "Vis avancerede input-/turboindstillinger"
+msgid "Multitap 5-port Controller"
+msgstr ""
 
 msgctxt "#30015"
-msgid "Turbo Hotkey Mode"
-msgstr "Tilstand for Turbo genvejstast"
+msgid "P1 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30016"
-msgid "Alternate Turbo Hotkey"
-msgstr "Alternativ Turbo genvejstast"
+msgid "P2 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30017"
-msgid "Turbo Speed"
-msgstr "Turbohastighed"
+msgid "P3 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30018"
-msgid "P1 Turbo I"
-msgstr "P1 Turbo I"
+msgid "P4 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30019"
-msgid "P1 Turbo II"
-msgstr "P1 Turbo II"
+msgid "P5 Default Joypad Type"
+msgstr ""
 
 msgctxt "#30020"
-msgid "P2 Turbo I"
-msgstr "P2 Turbo I"
+msgid "Turbo Hotkey Mode"
+msgstr ""
 
 msgctxt "#30021"
-msgid "P2 Turbo II"
-msgstr "P2 Turbo II"
+msgid "Alternate Turbo Hotkey"
+msgstr ""
 
 msgctxt "#30022"
-msgid "P3 Turbo I"
-msgstr "P3 Turbo I"
+msgid "Turbo Speed"
+msgstr ""
 
 msgctxt "#30023"
-msgid "P3 Turbo II"
-msgstr "P3 Turbo II"
+msgid "P1 Turbo I"
+msgstr ""
 
 msgctxt "#30024"
-msgid "P4 Turbo I"
-msgstr "P4 Turbo I"
+msgid "P1 Turbo II"
+msgstr ""
 
 msgctxt "#30025"
-msgid "P4 Turbo II"
-msgstr "P4 Turbo II"
+msgid "P2 Turbo I"
+msgstr ""
 
 msgctxt "#30026"
-msgid "P5 Turbo I"
-msgstr "P5 Turbo I"
+msgid "P2 Turbo II"
+msgstr ""
 
 msgctxt "#30027"
-msgid "P5 Turbo II"
-msgstr "P5 Turbo II"
+msgid "P3 Turbo I"
+msgstr ""
 
 msgctxt "#30028"
-msgid "CD Image Cache (Restart Required)"
-msgstr "CD billedcache (genstart påkrævet)"
+msgid "P3 Turbo II"
+msgstr ""
 
 msgctxt "#30029"
-msgid "CD Bios (Restart Required)"
-msgstr "CD BIOS (genstart påkrævet)"
+msgid "P4 Turbo I"
+msgstr ""
 
 msgctxt "#30030"
-msgid "Arcade Card (Restart Required)"
-msgstr "Arkadekort (genstart påkrævet)"
+msgid "P4 Turbo II"
+msgstr ""
 
 msgctxt "#30031"
+msgid "P5 Turbo I"
+msgstr ""
+
+msgctxt "#30032"
+msgid "P5 Turbo II"
+msgstr ""
+
+msgctxt "#30033"
+msgid "CD Image Cache (Restart Required)"
+msgstr ""
+
+msgctxt "#30034"
+msgid "CD Bios (Restart Required)"
+msgstr ""
+
+msgctxt "#30035"
+msgid "Arcade Card (Restart Required)"
+msgstr ""
+
+msgctxt "#30036"
 msgid "(CD) CD Speed"
 msgstr "(CD) CD-hastighed"
 
-msgctxt "#30032"
-msgid "(CD) ADPCM precision"
-msgstr "(CD) Nøjagtighed af ADPCM"
-
-msgctxt "#30033"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM lydstyrke %"
-
-msgctxt "#30034"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA lydstyrke %"
-
-msgctxt "#30035"
-msgid "(CD) CD PSG Volume %"
-msgstr "(CD) CD PSG lydstyrke %"
-
-msgctxt "#30036"
-msgid "No Sprite Limit"
-msgstr "Ingen Sprite begrænsning"
-
 msgctxt "#30037"
+msgid "(CD) ADPCM precision"
+msgstr ""
+
+msgctxt "#30038"
+msgid "(CD) ADPCM Volume %"
+msgstr ""
+
+msgctxt "#30039"
+msgid "(CD) CDDA Volume %"
+msgstr ""
+
+msgctxt "#30040"
+msgid "(CD) CD PSG Volume %"
+msgstr ""
+
+msgctxt "#30041"
+msgid "No Sprite Limit"
+msgstr ""
+
+msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
-msgstr "Multiplikator til CPU overclock"
+msgstr ""
+
+#~ msgctxt "#30010"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Musens følsomhed"
+
+#~ msgctxt "#30011"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Tillad modsatte retninger"
+
+#~ msgctxt "#30012"
+#~ msgid "Disable Soft Reset (RUN+SELECT)"
+#~ msgstr "Deaktiver blød nulstilling (RUN+SELECT)"
+
+#~ msgctxt "#30013"
+#~ msgid "Multitap 5-port Controller"
+#~ msgstr "Multitap 5-ports controller"
+
+#~ msgctxt "#30014"
+#~ msgid "Show Advanced Input/Turbo Settings"
+#~ msgstr "Vis avancerede input-/turboindstillinger"
+
+#~ msgctxt "#30015"
+#~ msgid "Turbo Hotkey Mode"
+#~ msgstr "Tilstand for Turbo genvejstast"
+
+#~ msgctxt "#30016"
+#~ msgid "Alternate Turbo Hotkey"
+#~ msgstr "Alternativ Turbo genvejstast"
+
+#~ msgctxt "#30017"
+#~ msgid "Turbo Speed"
+#~ msgstr "Turbohastighed"
+
+#~ msgctxt "#30018"
+#~ msgid "P1 Turbo I"
+#~ msgstr "P1 Turbo I"
+
+#~ msgctxt "#30019"
+#~ msgid "P1 Turbo II"
+#~ msgstr "P1 Turbo II"
+
+#~ msgctxt "#30020"
+#~ msgid "P2 Turbo I"
+#~ msgstr "P2 Turbo I"
+
+#~ msgctxt "#30021"
+#~ msgid "P2 Turbo II"
+#~ msgstr "P2 Turbo II"
+
+#~ msgctxt "#30022"
+#~ msgid "P3 Turbo I"
+#~ msgstr "P3 Turbo I"
+
+#~ msgctxt "#30023"
+#~ msgid "P3 Turbo II"
+#~ msgstr "P3 Turbo II"
+
+#~ msgctxt "#30024"
+#~ msgid "P4 Turbo I"
+#~ msgstr "P4 Turbo I"
+
+#~ msgctxt "#30025"
+#~ msgid "P4 Turbo II"
+#~ msgstr "P4 Turbo II"
+
+#~ msgctxt "#30026"
+#~ msgid "P5 Turbo I"
+#~ msgstr "P5 Turbo I"
+
+#~ msgctxt "#30027"
+#~ msgid "P5 Turbo II"
+#~ msgstr "P5 Turbo II"
+
+#~ msgctxt "#30028"
+#~ msgid "CD Image Cache (Restart Required)"
+#~ msgstr "CD billedcache (genstart påkrævet)"
+
+#~ msgctxt "#30029"
+#~ msgid "CD Bios (Restart Required)"
+#~ msgstr "CD BIOS (genstart påkrævet)"
+
+#~ msgctxt "#30030"
+#~ msgid "Arcade Card (Restart Required)"
+#~ msgstr "Arkadekort (genstart påkrævet)"
+
+#~ msgctxt "#30031"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-hastighed"
+
+#~ msgctxt "#30032"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(CD) Nøjagtighed af ADPCM"
+
+#~ msgctxt "#30033"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM lydstyrke %"
+
+#~ msgctxt "#30034"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA lydstyrke %"
+
+#~ msgctxt "#30035"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(CD) CD PSG lydstyrke %"
+
+#~ msgctxt "#30036"
+#~ msgid "No Sprite Limit"
+#~ msgstr "Ingen Sprite begrænsning"
+
+#~ msgctxt "#30037"
+#~ msgid "CPU Overclock Multiplier"
+#~ msgstr "Multiplikator til CPU overclock"
 
 #~ msgctxt "#30001"
 #~ msgid "Colour Palette"
@@ -296,10 +428,6 @@ msgstr "Multiplikator til CPU overclock"
 #~ msgctxt "#30035"
 #~ msgid "Arcade Card (Restart)"
 #~ msgstr "Arcade Card (genstart)"
-
-#~ msgctxt "#30036"
-#~ msgid "(CD) CD Speed"
-#~ msgstr "(CD) CD-hastighed"
 
 #~ msgctxt "#30037"
 #~ msgid "Show Advanced Input/Turbo Settings"
