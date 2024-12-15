@@ -25,10 +25,6 @@ msgctxt "Addon Description"
 msgid "Beetle PC Engine is a fork of Mednafen's PC Engine driver.[CR][CR]This PC Engine module is more accurate than the Beetle PC Engine Fast module, at the expense of speed."
 msgstr "Beetle PC Engine ist ein Ableger des PC-Engine-Treibers von Mednafen[CR][CR]Dieses PC-Engine-Modul ist genauer als das Beetle PC-Engine-Fast-Modul, allerdings auf Kosten der Geschwindigkeit."
 
-msgctxt "#30000"
-msgid "Settings"
-msgstr "Einstellungen"
-
 msgctxt "#30001"
 msgid "Color Palette"
 msgstr "Farbpalette"
@@ -196,6 +192,10 @@ msgstr ""
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
 msgstr ""
+
+#~ msgctxt "#30000"
+#~ msgid "Settings"
+#~ msgstr "Einstellungen"
 
 #~ msgctxt "#30010"
 #~ msgid "Mouse Sensitivity"
