@@ -15,4 +15,9 @@
 		<feature name="left" mapto="RETRO_DEVICE_ID_JOYPAD_LEFT"/>
 		<feature name="mode" mapto="RETRO_DEVICE_ID_JOYPAD_L2"/>
 	</controller>
+	<controller id="game.controller.mouse" type="RETRO_DEVICE_MOUSE">
+		<feature name="left" mapto="RETRO_DEVICE_ID_MOUSE_LEFT"/>
+		<feature name="right" mapto="RETRO_DEVICE_ID_MOUSE_RIGHT"/>
+		<feature name="pointer" mapto="RETRO_DEVICE_MOUSE"/>
+	</controller>
 </buttonmap>
