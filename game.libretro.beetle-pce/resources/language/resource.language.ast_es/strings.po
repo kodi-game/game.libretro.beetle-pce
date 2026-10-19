@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Proporción d'aspeutu"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
@@ -71,7 +71,7 @@ msgstr "Sensibilidá del mur"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permitir les direiciones opuestes"
 
 msgctxt "#30013"
 msgid "Disable Soft Reset (RUN+SELECT)"
@@ -163,7 +163,7 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr ""
+msgstr "Arcade Card (ye obligatorio reaniciar)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "Videu"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "El videu compuestu tenta de recrear la salida orixinal de la consola y pue amosar más detalles en dalgunos xuegos."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (por defeutu)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -255,11 +255,11 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (por defeutu)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Audiu"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
@@ -339,7 +339,7 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de la emulación"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
@@ -706,5 +706,5 @@ msgstr ""
 #~ msgstr "Axustes"
 
 #~ msgctxt "#30010"
-#~ msgid "Mouse Sensitivity"
+#~ msgid "Show Advanced Input/Turbo Settings"
 #~ msgstr "Sensibilidá del mur"

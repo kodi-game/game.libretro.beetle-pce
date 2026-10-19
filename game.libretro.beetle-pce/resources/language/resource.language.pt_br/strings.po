@@ -27,59 +27,59 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta de cores"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Proporção de tela"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr ""
+msgstr "Escala de resolução"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
-msgstr ""
+msgstr "Nível de mesclagem em alta resolução"
 
 msgctxt "#30005"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "Mostrar overscan horizontal"
 
 msgctxt "#30006"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Linha de varredura inicial"
 
 msgctxt "#30007"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Linha de varredura final"
 
 msgctxt "#30008"
 msgid "PSG Audio Chip (Restart Required)"
-msgstr ""
+msgstr "Chip de áudio PSG (requer reinício)"
 
 msgctxt "#30009"
 msgid "Owl Resampler Quality"
-msgstr ""
+msgstr "Qualidade da reamostragem Owl"
 
 msgctxt "#30010"
 msgid "Show Advanced Input/Turbo Settings"
-msgstr ""
+msgstr "Mostrar configurações avançadas de entrada/Turbo"
 
 msgctxt "#30011"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Sensibilidade do mouse"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Permitir direções opostas"
 
 msgctxt "#30013"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Desativar a reinicialização suave (RUN+SELECT)"
 
 msgctxt "#30014"
 msgid "Multitap 5-port Controller"
-msgstr ""
+msgstr "Multitap de 5 portas"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
@@ -103,95 +103,95 @@ msgstr ""
 
 msgctxt "#30020"
 msgid "Turbo Hotkey Mode"
-msgstr ""
+msgstr "Modo de atalho do turbo"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Atalho alternativo do turbo"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr ""
+msgstr "Velocidade do turbo"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
-msgstr ""
+msgstr "Turbo I do J1"
 
 msgctxt "#30024"
 msgid "P1 Turbo II"
-msgstr ""
+msgstr "Turbo II do J1"
 
 msgctxt "#30025"
 msgid "P2 Turbo I"
-msgstr ""
+msgstr "Turbo I do J2"
 
 msgctxt "#30026"
 msgid "P2 Turbo II"
-msgstr ""
+msgstr "Turbo II do J2"
 
 msgctxt "#30027"
 msgid "P3 Turbo I"
-msgstr ""
+msgstr "Turbo I do J3"
 
 msgctxt "#30028"
 msgid "P3 Turbo II"
-msgstr ""
+msgstr "Turbo II do J3"
 
 msgctxt "#30029"
 msgid "P4 Turbo I"
-msgstr ""
+msgstr "Turbo I do J4"
 
 msgctxt "#30030"
 msgid "P4 Turbo II"
-msgstr ""
+msgstr "Turbo II do J4"
 
 msgctxt "#30031"
 msgid "P5 Turbo I"
-msgstr ""
+msgstr "Turbo I do J5"
 
 msgctxt "#30032"
 msgid "P5 Turbo II"
-msgstr ""
+msgstr "Turbo II do J5"
 
 msgctxt "#30033"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Cache de imagem do CD (requer reinício)"
 
 msgctxt "#30034"
 msgid "CD Bios (Restart Required)"
-msgstr ""
+msgstr "BIOS de CD (requer reinício)"
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr ""
+msgstr "Arcade Card (requer reinício)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Velocidade do CD"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
-msgstr ""
+msgstr "(CD) Precisão do ADPCM"
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) Volume do ADPCM (%)"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) Volume do CDDA (%)"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
-msgstr ""
+msgstr "(CD) Volume do PSG de CD (%)"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Sem tempo limite do sprite"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
-msgstr ""
+msgstr "Multiplicador do Overclock de CPU"
 
 msgctxt "#30043"
 msgid "Show Multitap, Mouse, Turbo Buttons and advanced parameters. NOTE: You may need to go back in game and re-enter the menu to refresh the list."
@@ -199,103 +199,105 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "Vídeo"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
-msgstr ""
+msgstr "Configura os parâmentros da taxa de proporção, recorte de exibição e outras saídas de imagem."
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Vídeo composto tenta recriar a saída original do console e pode exibir mais detalhes em alguns jogos."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Escolhe a proporção de tela preferida do conteúdo. Isso se aplicará somente quando a proporção de tela do RetroArch estiver configurada como 'Fornecida pelo núcleo' nas configurações de vídeo."
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "Automática"
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Não corrigida"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
-msgstr ""
+msgstr "\"Automática\" permitirá variar a resolução. \"Baixa resolução\" pode comprimir os píxeis. \"Alta resolução\" será na largura máxima."
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Baixa resolução"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Alta resolução"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
-msgstr ""
+msgstr "Mescla pixeis no modo de alta resolução. Valores maiores borrarão mais a imagem."
 
 msgctxt "#30054"
 msgid "'Auto' will try to adapt to games, cropping empty areas."
-msgstr ""
+msgstr "\"Automática\" tentará se adaptar aos jogos, cortando áreas vazias."
 
 msgctxt "#30055"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Primeira linha de verificação renderizada. Valores maiores cortarão a parte superior da imagem."
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (padrão)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Última linha de verificação renderizada. Valores menores cortarão a parte inferior da imagem."
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (padrão)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Áudio"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Configure os dispositivos de áudio emulados."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
-msgstr ""
+msgstr "HuC6280 representa o PC Engine original, HuC6280A representa o SuperGrafx e CoreGrafx I."
 
 msgctxt "#30062"
 msgid "Higher values give better signal-to-noise ratio and preservation of higher frequencies but increase the computation cost and may cause higher latency and clipping if the volume is set too high."
-msgstr ""
+msgstr "Valores maiores melhoram a relação sinal-ruído e preservam as frequências maiores, mas aumentam o custo computacional e podem causar maior latência e recorte caso o volume seja configurado muito alto."
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Entrada"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
-msgstr ""
+msgstr "Configura a entrada da pistola de luz, mouse e controle."
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Define a velocidade do mouse."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
 msgstr ""
+"Permite pressionar, alternar ou segurar rapidamente as direções esquerda e direita (ou cima e baixo) ao mesmo tempo.\n"
+"OBSERVAÇÃO: pode causar problemas de movimentação."
 
 msgctxt "#30067"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Ao pressionar RUN e SELECT simultaneamente, desativa ambos os botões temporariamente em vez de reinicializar."
 
 msgctxt "#30068"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "Ativa emulação de multitap de até 5 jogadores. A desativação é necessária em alguns casos (por ex. Cho Aniki)."
 
 msgctxt "#30069"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
@@ -319,71 +321,71 @@ msgstr ""
 
 msgctxt "#30074"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "Habilita os botões turbo. Os atalhos (botões III e IV) podem comportar-se como interruptores ou como botões dedicados (segure para usar)."
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr ""
+msgstr "Interruptor"
 
 msgctxt "#30076"
 msgid "Dedicated"
-msgstr ""
+msgstr "Dedicado"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Atribui os botões L3 e R3 do RetroPad como atalhos do turbo, em vez dos botões III e IV. Somente funciona no modo interruptor e enquanto não tiver outras atribuições aos botões L3 e R3. Você pode evitar o remapeamento dos botões III e IV ao alterar para o modo de controle de 6 botões com isso."
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
-msgstr ""
+msgstr "Define a taxa de repetição dos botões pressionados."
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks de emulação"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Configure os parâmetros de precisão de overclock e emulação do processador que afetam o baixo desempenho e a compatibilidade."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
-msgstr ""
+msgstr "Remove o limite de hardware de 16 sprites por linha de verificação. ATENÇÃO: pode causar falhas gráficas em alguns jogos (como Bloody Wolf)."
 
 msgctxt "#30082"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Valores maiores podem reduzir a lentidão em jogos. ATENÇÃO: podem causar falhas e fechar o jogo."
 
 msgctxt "#30083"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "CD do PC Engine"
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Altera as configurações relacionadas à emulação de CD do PC Engine."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Carrega a imagem completa na memória ao iniciar. Eventualmente, pode diminuir o tempo de carregamento ao custo de um tempo de inicialização maior."
 
 msgctxt "#30086"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "A maioria dos jogos podem rodar em \"System Card 3\". \"Games Express\" é necessário para vários jogos não licenciados."
 
 msgctxt "#30087"
 msgid "Leave this option enabled to allow enhanced modes of ACD-enhanced SCD games."
-msgstr ""
+msgstr "Caso a opção esteja ativada, permite os modos otimizados dos jogos de SCD para ACD."
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Valores maiores permitem carregar mais rápido, mas podem causar problemas em alguns jogos."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
-msgstr ""
+msgstr "A precisão de 12 bits para a predição do MSM5205 pode reduzir o problema de ruído durante a reprodução do ADPCM."
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Somente em CD. Definir o controle de volume muito alto pode causar cortes de amostra."
 
 msgctxt "#30091"
 msgid "6:5"

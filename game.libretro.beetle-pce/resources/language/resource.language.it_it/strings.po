@@ -27,19 +27,19 @@ msgstr "Beetle PC Engine è un fork del driver PC Engine di Mednafen.[CR][CR]Que
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr "Tavolozza colori"
+msgstr "Tavolozza Colore"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr "Proporzioni"
+msgstr "Rapporto Dimensioni"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr "Ridimensionamento risoluzione"
+msgstr "Scala Risoluzione"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
-msgstr "Forza di fusione ad alta risoluzione"
+msgstr "Forza Di Miscelazione Ad Alta Risoluzione"
 
 msgctxt "#30005"
 msgid "Show Horizontal Overscan"
@@ -47,19 +47,19 @@ msgstr "Mostra overscan orizzontale"
 
 msgctxt "#30006"
 msgid "Initial Scanline"
-msgstr "Scansione iniziale"
+msgstr "Scanline Iniziale"
 
 msgctxt "#30007"
 msgid "Last Scanline"
-msgstr "Ultima scansione"
+msgstr "Ultima Scanline"
 
 msgctxt "#30008"
 msgid "PSG Audio Chip (Restart Required)"
-msgstr "Chip audio PSG (riavvio richiesto)"
+msgstr "PSG Audio Chip (Riavvio Richiesto)"
 
 msgctxt "#30009"
 msgid "Owl Resampler Quality"
-msgstr "Qualità campionatore Owl"
+msgstr "Qualità Del Owl Resampler"
 
 msgctxt "#30010"
 msgid "Show Advanced Input/Turbo Settings"
@@ -87,27 +87,27 @@ msgstr "Tipo di joypad P1 predefinito"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr "Tipo di joypad P2 predefinito"
+msgstr "Tipo Joypad Predefinito P2"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr "Tipo di joypad P3 predefinito"
+msgstr "Tipo Joypad Predefinito P3"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr "Tipo di joypad P4 predefinito"
+msgstr "Tipo Joypad Predefinito P4"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr "Tipo di joypad P5 predefinito"
+msgstr "Tipo Joypad Predefinito P5"
 
 msgctxt "#30020"
 msgid "Turbo Hotkey Mode"
-msgstr "Tasto di scelta rapida modalità Turbo"
+msgstr "Modalità Scorciatoia Turbo"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr "Tasto di scelta rapida alternativo Turbo"
+msgstr "Scorciatoia Turbo Alternativa"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
@@ -155,15 +155,15 @@ msgstr "P5 Turbo II"
 
 msgctxt "#30033"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Cache immagine CD (riavvio richiesto)"
+msgstr "Cache Immagine CD (Riavvio Richiesto)"
 
 msgctxt "#30034"
 msgid "CD Bios (Restart Required)"
-msgstr "CD Bios (riavvio richiesto)"
+msgstr "Bios Cd (Riavvio Richiesto)"
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr "Scheda Arcade (riavvio richiesto)"
+msgstr "Carta Arcade (Riavvio Richiesto)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
@@ -187,15 +187,15 @@ msgstr "(CD ) Volume CD PSG %"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr "Nessun limite di sprite"
+msgstr "Nessun Limite Sprite"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
-msgstr "Moltiplicatore overclock CPU"
+msgstr "Moltiplicatore Overclock CPU"
 
 msgctxt "#30043"
 msgid "Show Multitap, Mouse, Turbo Buttons and advanced parameters. NOTE: You may need to go back in game and re-enter the menu to refresh the list."
-msgstr ""
+msgstr "Mostra Multitap, Mouse, Turbo Buttons e parametri avanzati. NOTA: Potrebbe essere necessario tornare in gioco e reinserire il menu per aggiornare l'elenco."
 
 msgctxt "#30044"
 msgid "Video"
@@ -203,15 +203,15 @@ msgstr ""
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
-msgstr ""
+msgstr "Configura proporzioni, visualizza il ritaglio e altri parametri di output dell'immagine."
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Composito cerca di ricreare l'output originale della console e può mostrare maggiori dettagli in alcuni giochi."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "Scegli le proporzioni preferite del contenuto. Questo si applicherà solo quando le proporzioni di RetroArc sono impostate su 'Core fornito' nelle impostazioni del video."
 
 msgctxt "#30048"
 msgid "Auto"
@@ -219,43 +219,43 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Non Corretto"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
-msgstr ""
+msgstr "'Auto' permetterà alla risoluzione di cambiare. 'Bassa Risoluzione' può frantumare i pixel. 'Alta Risoluzione' resterà sulla larghezza massima."
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Bassa Risoluzione"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Alta Risoluzione"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
-msgstr ""
+msgstr "Sfuma i pixel insieme quando in modalità alta risoluzione. Valori più alti sfoceranno ulteriormente l'immagine."
 
 msgctxt "#30054"
 msgid "'Auto' will try to adapt to games, cropping empty areas."
-msgstr ""
+msgstr "'Auto' cercherà di adattarsi ai giochi, ritagliando aree vuote."
 
 msgctxt "#30055"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Prima scanline renderizzata. Valori più alti ritaglieranno la parte superiore dell'immagine."
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Predefinito)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Ultima scanline renderizzata. I valori più bassi ritaglieranno la parte inferiore dell'immagine."
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (predefinito)"
 
 msgctxt "#30059"
 msgid "Audio"
@@ -263,15 +263,15 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Configurare i dispositivi audio emulati."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
-msgstr ""
+msgstr "HuC6280 rappresenta il motore PC originale, HuC6280A il SuperGrafx e CoreGrafx I."
 
 msgctxt "#30062"
 msgid "Higher values give better signal-to-noise ratio and preservation of higher frequencies but increase the computation cost and may cause higher latency and clipping if the volume is set too high."
-msgstr ""
+msgstr "Valori più alti danno un migliore rapporto segnale-rumore e la conservazione di frequenze più elevate, ma aumentano il costo di calcolo e possono causare una maggiore latenza e ritaglio se il volume è impostato troppo alto."
 
 msgctxt "#30063"
 msgid "Input"
@@ -279,79 +279,79 @@ msgstr ""
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
-msgstr ""
+msgstr "Configura la pistola luminosa, il mouse e l'input del regolatore."
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Valori più alti renderanno il cursore del mouse più veloce."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Abilitando questa opzione sarà possibile premere / alternare rapidamente / tenere contemporaneamente sia le direzioni sinistra che destra (o su e giù). Ciò può causare problemi di movimento."
 
 msgctxt "#30067"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Quando RUN e SELECT vengono premuti contemporaneamente, disabilitare temporaneamente entrambi i pulsanti invece di reimpostare."
 
 msgctxt "#30068"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "Abilita l'emulazione multitap fino a 5 giocatori. Disabilitarla è necessaria solo in alcuni casi (ad esempio Cho Aniki)."
 
 msgctxt "#30069"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Scegli se la porta 1 joypad deve essere 2 o 6 pulsanti per impostazione predefinita. Questa opzione viene applicata solo quando il core si avvia, se si desidera passare mentre il contenuto è in esecuzione, utilizzare il pulsante 'Commutatore di modalità'. NOTA: 6 pulsanti joypad possono avere comportamenti strani in giochi non compatibili."
 
 msgctxt "#30070"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Scegli se la porta 2 joypad deve essere 2 o 6 pulsanti per impostazione predefinita. Questa opzione viene applicata solo quando il core si avvia, se si desidera passare mentre il contenuto è in esecuzione, utilizzare il pulsante 'Commutatore di modalità'. NOTA: 6 pulsanti joypad possono avere comportamenti strani in giochi non compatibili."
 
 msgctxt "#30071"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Scegli se la porta 3 joypad dovrebbe essere 2 o 6 pulsanti per impostazione predefinita. Questa opzione viene applicata solo quando il core si avvia, se si desidera passare mentre il contenuto è in esecuzione, utilizzare il pulsante 'Commutatore di modalità'. NOTA: 6 pulsanti joypad possono avere comportamenti strani in giochi non compatibili."
 
 msgctxt "#30072"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Scegli se la porta 4 joypad dovrebbe essere 2 o 6 pulsanti per impostazione predefinita. Questa opzione viene applicata solo quando il core si avvia, se si desidera passare mentre il contenuto è in esecuzione, utilizzare il pulsante 'Commutatore di modalità'. NOTA: 6 pulsanti joypad possono avere comportamenti strani in giochi non compatibili."
 
 msgctxt "#30073"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Scegli se la porta 5 joypad dovrebbe essere 2 o 6 pulsanti per impostazione predefinita. Questa opzione viene applicata solo quando il core si avvia, se si desidera passare mentre il contenuto è in esecuzione, utilizzare il pulsante 'Commutatore di modalità'. NOTA: 6 pulsanti joypad possono avere comportamenti strani in giochi non compatibili."
 
 msgctxt "#30074"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "Abilita i pulsanti turbo. I tasti di scelta rapida (pulsanti III e IV) possono comportarsi come interruttori o pulsanti turbo dedicati (tenere premuto per usare)."
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr ""
+msgstr "Interrutore"
 
 msgctxt "#30076"
 msgid "Dedicated"
-msgstr ""
+msgstr "Dedicato"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "Assegnare i pulsanti RetroPad's L3/R3 come tasti di scelta rapida turbo invece dei pulsanti III e IV. Funziona solo in modalità 'Interruttore' e solo finché non viene assegnato nulla ai pulsanti L3/R3. È possibile evitare di remapping i pulsanti III e IV quando si passa alla modalità controller a 6 pulsanti con questo."
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
-msgstr ""
+msgstr "Scegli quanto velocemente vengono ripetute le pressioni dei pulsanti."
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hack di Emulazione"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Configura i parametri di precisione di overclocking e emulazione del processore che influenzano prestazioni e compatibilità di basso livello."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
-msgstr ""
+msgstr "Rimuovi il limite hardware di 16 sprites per linea. ATTENZIONE: Potrebbe causare glitch grafici in qualche gioco (come Bloody Wolf)."
 
 msgctxt "#30082"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Valori più alti possono ridurre i rallentamenti dei giochi. ATTENZIONE: può causare problemi e crash."
 
 msgctxt "#30083"
 msgid "PC Engine CD"
@@ -359,31 +359,31 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Configurare le impostazioni relative all'emulazione del CD del motore del PC."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Carica l'immagine completa in memoria all'avvio. Può potenzialmente diminuire i tempi di caricamento al costo di un aumento del tempo di avvio."
 
 msgctxt "#30086"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "La maggior parte dei giochi può essere eseguita su 'System Card 3'. 'Games Express' è necessario per diversi giochi senza licenza."
 
 msgctxt "#30087"
 msgid "Leave this option enabled to allow enhanced modes of ACD-enhanced SCD games."
-msgstr ""
+msgstr "Lascia questa opzione abilitata per consentire modalità migliorate di giochi SCD migliorati con ACD."
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Valori più elevati consentono tempi di caricamento più rapidi, ma possono causare problemi con un paio di giochi."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
-msgstr ""
+msgstr "La massima precisione di 12 bit per il predicatore ADPCM MSM5205 può ridurre il rumore pieni durante la riproduzione ADPCM."
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Solo gioco di CD. Impostare questo controllo del volume troppo alto può causare ritaglio di campione."
 
 msgctxt "#30091"
 msgid "6:5"
@@ -706,29 +706,29 @@ msgstr ""
 #~ msgstr "Impostazioni"
 
 #~ msgctxt "#30010"
-#~ msgid "Mouse Sensitivity"
-#~ msgstr "Sensibilità mouse"
+#~ msgid "Show Advanced Input/Turbo Settings"
+#~ msgstr "Mostra Impostazioni Avanzate Di Ingresso/Turbo"
 
 #~ msgctxt "#30011"
-#~ msgid "Allow Opposing Directions"
-#~ msgstr "Consenti direzioni opposte"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Sensibilità Mouse"
 
 #~ msgctxt "#30012"
+#~ msgid "Allow Opposing Directions"
+#~ msgstr "Permetti Direzioni Opposte"
+
+#~ msgctxt "#30013"
 #~ msgid "Disable Soft Reset (RUN+SELECT)"
 #~ msgstr "Disabilita Soft Reset (RUN+SELECT)"
 
-#~ msgctxt "#30013"
-#~ msgid "Multitap 5-port Controller"
-#~ msgstr "Controller multitap a 5 porte"
-
 #~ msgctxt "#30014"
-#~ msgid "Show Advanced Input/Turbo Settings"
+#~ msgid "Multitap 5-port Controller"
 #~ msgstr "Mostra impostazioni avanzate input/turbo"
 
 #~ msgctxt "#30015"
-#~ msgid "Turbo Hotkey Mode"
-#~ msgstr "Tasto di scelta rapida modalità turbo"
+#~ msgid "P1 Default Joypad Type"
+#~ msgstr "Tipo Joypad Predefinito P1"
 
 #~ msgctxt "#30036"
-#~ msgid "No Sprite Limit"
-#~ msgstr "Nessun limite di sprite"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Velocità CD"

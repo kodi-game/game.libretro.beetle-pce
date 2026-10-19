@@ -27,7 +27,7 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Bảng màu"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "Hình ảnh"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Tổng hợp các cố gắng để tạo lại đầu ra bảng điều khiển ban đầu và có thể hiển thị thêm chi tiết trong một số trò chơi."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -215,7 +215,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "Tự động"
 
 msgctxt "#30049"
 msgid "Uncorrected"
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Mặc định)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -255,15 +255,15 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Mặc định)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Âm thanh"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Chỉnh sửa âm thanh của giả lập."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Input Driver"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
@@ -339,11 +339,11 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacks giả lập"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Định cấu hình các thông số độ chính xác của việc ép xung và mô phỏng bộ xử lý ảnh hưởng đến hiệu suất và khả năng tương thích ở mức thấp."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Định cấu hình cài đặt liên quan đến trình mô phỏng PC Engine CD."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."

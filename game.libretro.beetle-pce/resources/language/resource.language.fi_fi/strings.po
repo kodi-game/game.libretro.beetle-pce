@@ -27,15 +27,15 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Väripaletti"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Kuvasuhde"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr ""
+msgstr "Resoluution skaalaus"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
@@ -43,15 +43,15 @@ msgstr ""
 
 msgctxt "#30005"
 msgid "Show Horizontal Overscan"
-msgstr "Näytä vaakasuuntainen yliskannaus"
+msgstr "Näytä vaakasuora yliskannaus"
 
 msgctxt "#30006"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Ensimmäinen juova"
 
 msgctxt "#30007"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Viimeinen juova"
 
 msgctxt "#30008"
 msgid "PSG Audio Chip (Restart Required)"
@@ -107,11 +107,11 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Vaihtoehtoinen turbo-pikanäppäin"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr ""
+msgstr "Turbonopeus"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
@@ -155,7 +155,7 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "CD-levykuvan välimuisti (Uudelleenkäynnistys vaaditaan)"
 
 msgctxt "#30034"
 msgid "CD Bios (Restart Required)"
@@ -167,19 +167,19 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD-nopeus"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
-msgstr ""
+msgstr "(CD) ADPCM-tarkkuus"
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM äänenvoimakkuus %"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA äänenvoimakkuus %"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
@@ -187,7 +187,7 @@ msgstr ""
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Poista sprite-rajoitus"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
@@ -207,7 +207,7 @@ msgstr ""
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "Komposiitti yrittää uudelleen luoda alkuperäisen konsolin ulostuloa ja saattaa näyttää enemmän yksityiskohtia joissakin peleissä."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
@@ -215,11 +215,11 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "Automaattinen"
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Ei korjattu"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
@@ -227,11 +227,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Matala resoluutio"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Korkea resoluutio"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
@@ -243,27 +243,27 @@ msgstr ""
 
 msgctxt "#30055"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Ensimmäinen renderöity juova. Suuremmat arvot rajaavat kuvan yläreunan."
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (Oletus)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Viimeinen renderöity juova. pienemmät arvot rajaavat kuvan alareunan."
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (Oletus)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Ääni"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Määritä emuloidut äänentoistolaitteet."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Syöte"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
@@ -283,15 +283,15 @@ msgstr ""
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Korkeammat arvot saavat hiiren kursorin liikkumaan nopeammin."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "Tämän käyttöönotto sallii painamaan / nopeasti vaihtelemaan / pitämään sekä vasemmalle että oikealle (tai ylös ja alas) samanaikaisesti. Tämä voi aiheuttaa liikkeisiin perustuvia virheitä."
 
 msgctxt "#30067"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "Kun RUN ja SELECT painetaan samanaikaisesti, poistetaan molemmat painikkeet käytöstä tilapäisesti soft resettaamisen sijaan."
 
 msgctxt "#30068"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
@@ -335,15 +335,15 @@ msgstr ""
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
-msgstr ""
+msgstr "Valitse miten nopeasti painikkeen painallukset toistetaan."
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulointikikat"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Määritä prosessorin ylikellotus- ja emuloinnin tarkkuuden asetukset, jotka vaikuttavat matalan tason suorituskykyyn ja yhteensopivuuteen."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
@@ -351,7 +351,7 @@ msgstr ""
 
 msgctxt "#30082"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Suuremmat arvot voivat vähentää pelien hidastumista. VAROITUS: Voi aiheuttaa virheitä ja kaatumisia."
 
 msgctxt "#30083"
 msgid "PC Engine CD"
@@ -359,15 +359,15 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Määritä PC Engine CD -emulointiin liittyvät asetukset."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Lataa koko levykuva muistiin käynnistyksen yhteydessä. Voi mahdollisesti lyhentää latausaikoja kasvavan käynnistysajan kustannuksella."
 
 msgctxt "#30086"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "Useimmat pelit voidaan ajaa \"System Card 3\". \"Games Express\" tarvitaan useille lisensoimattomille peleille."
 
 msgctxt "#30087"
 msgid "Leave this option enabled to allow enhanced modes of ACD-enhanced SCD games."
@@ -375,7 +375,7 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Korkeammat arvot mahdollistavat nopeammat latausajat, mutta voivat aiheuttaa ongelmia muutaman pelin kanssa."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
@@ -383,7 +383,7 @@ msgstr ""
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Vain CD-peleille. Tämän äänenvoimakkuuden säädön asettaminen liian korkeaksi voi aiheuttaa näytteen pätkimistä."
 
 msgctxt "#30091"
 msgid "6:5"
@@ -706,9 +706,9 @@ msgstr ""
 #~ msgstr "Asetukset"
 
 #~ msgctxt "#30011"
-#~ msgid "Allow Opposing Directions"
-#~ msgstr "Salli vastakkaiset suunnat"
+#~ msgid "Mouse Sensitivity"
+#~ msgstr "Hiiren herkkyys"
 
 #~ msgctxt "#30013"
-#~ msgid "Multitap 5-port Controller"
-#~ msgstr "5-porttinen Multitap-ohjain"
+#~ msgid "Disable Soft Reset (RUN+SELECT)"
+#~ msgstr "Poista soft reset käytöstä (RUN+SELECT)"

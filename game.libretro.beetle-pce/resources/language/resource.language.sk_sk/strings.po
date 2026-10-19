@@ -27,11 +27,11 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Farebná paleta"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Pomer strán"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
@@ -67,7 +67,7 @@ msgstr ""
 
 msgctxt "#30011"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Citlivosť myši"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
@@ -111,7 +111,7 @@ msgstr ""
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr ""
+msgstr "Turbo rýchlosť"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
@@ -167,7 +167,7 @@ msgstr ""
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD rýchlosť"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
@@ -175,15 +175,15 @@ msgstr ""
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM hlasitosť %"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA hlasitosť %"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
-msgstr ""
+msgstr "(CD) PSG hlasitosť %"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Neopravené"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
@@ -227,11 +227,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Nízke rozlíšenie"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Vysoké rozlíšenie"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (predvolené)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -255,11 +255,11 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (predvolené)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Zvuk"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Vstup"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
@@ -323,11 +323,11 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr ""
+msgstr "Prepnúť"
 
 msgctxt "#30076"
 msgid "Dedicated"
-msgstr ""
+msgstr "Vyhradené"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
@@ -339,7 +339,7 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulačné hacky"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."

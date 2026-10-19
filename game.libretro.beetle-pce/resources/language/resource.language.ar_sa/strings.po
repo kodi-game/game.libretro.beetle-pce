@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "نسبة الجانب"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
@@ -199,7 +199,7 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "فيديو"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
@@ -215,7 +215,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "تلقائي"
 
 msgctxt "#30049"
 msgid "Uncorrected"
@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "نظام تشغيل الصوت"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "الإدخال"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."

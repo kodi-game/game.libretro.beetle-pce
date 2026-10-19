@@ -27,91 +27,91 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Színpaletta"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Képarány"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr ""
+msgstr "Felbontás skálázás"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
-msgstr ""
+msgstr "Összemosás erőssége nagy felbontáson"
 
 msgctxt "#30005"
 msgid "Show Horizontal Overscan"
-msgstr ""
+msgstr "Vízszintes overscan megjelenítése"
 
 msgctxt "#30006"
 msgid "Initial Scanline"
-msgstr ""
+msgstr "Kezdő scanline"
 
 msgctxt "#30007"
 msgid "Last Scanline"
-msgstr ""
+msgstr "Utolsó scanline"
 
 msgctxt "#30008"
 msgid "PSG Audio Chip (Restart Required)"
-msgstr ""
+msgstr "PSG hangchip (újraindítás szükséges)"
 
 msgctxt "#30009"
 msgid "Owl Resampler Quality"
-msgstr ""
+msgstr "Az Owl újramintavételezés minősége"
 
 msgctxt "#30010"
 msgid "Show Advanced Input/Turbo Settings"
-msgstr ""
+msgstr "Haladó bemenet / turbó beállítások megjelenítése"
 
 msgctxt "#30011"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Egér érzékenysége"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Ellentétes irányok engedélyezése"
 
 msgctxt "#30013"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Soft reset letiltása (RUN+SELECT)"
 
 msgctxt "#30014"
 msgid "Multitap 5-port Controller"
-msgstr ""
+msgstr "Multitap 5 csatlakozós kontroller"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr ""
+msgstr "1. joypad alapértelmezett típusa"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr ""
+msgstr "2. joypad alapértelmezett típusa"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr ""
+msgstr "3. joypad alapértelmezett típusa"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr ""
+msgstr "4. joypad alapértelmezett típusa"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr ""
+msgstr "5. joypad alapértelmezett típusa"
 
 msgctxt "#30020"
 msgid "Turbo Hotkey Mode"
-msgstr ""
+msgstr "Turbó gyorsgomb mód"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Alternatív Turbo gyorsgomb"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr ""
+msgstr "Turbó sebesség"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
@@ -155,235 +155,235 @@ msgstr ""
 
 msgctxt "#30033"
 msgid "CD Image Cache (Restart Required)"
-msgstr ""
+msgstr "Gyorsítótár a CD képfájlhoz (újraindítás szükséges)"
 
 msgctxt "#30034"
 msgid "CD Bios (Restart Required)"
-msgstr ""
+msgstr "CD BIOS (újraindítás szükséges)"
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr ""
+msgstr "Arcade Card (újraindítás szükséges)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) CD sebesség"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
-msgstr ""
+msgstr "(CD) ADPCM pontosság"
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) ADPCM hangerő %"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) CDDA hangerő %"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
-msgstr ""
+msgstr "(CD) CD PSG hangerő %"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Nincs sprite korlátozás"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
-msgstr ""
+msgstr "CPU túlhajtás szorzó"
 
 msgctxt "#30043"
 msgid "Show Multitap, Mouse, Turbo Buttons and advanced parameters. NOTE: You may need to go back in game and re-enter the menu to refresh the list."
-msgstr ""
+msgstr "A multitap, egér, turbó gombok, és haladó paraméterek megjelenítése. Figyelem: vissza kell lépni a játékba és újra belépni a menübe, hogy a lista frissüljön."
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "Kép"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
-msgstr ""
+msgstr "Képarány, képvágás, és más képkimeneti paraméterek."
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr ""
+msgstr "A kompozit az eredeti konzol kimenetét kísérli meg utánozni, és néhány játékban több részletet mutathat meg."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr ""
+msgstr "A kívánt képarány. Csak akkor lép életbe, ha a RetroArch video beállítások közt a képarány \"Mag által megadott\"-ra van állítva."
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "Automatikus"
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Korrigálatlan"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
-msgstr ""
+msgstr "Automatikus: engedélyezi a felbontásváltást. Alacsony felbontás: a pixelek torlódhatnak. Nagy felbontás: mindig a maximális szélességen marad."
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Alacsony felbontás"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Nagy felbontás"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
-msgstr ""
+msgstr "Nagy felbontásban összemossa a pixeleket. Nagyobb értékek erősebben homályosítják a képet."
 
 msgctxt "#30054"
 msgid "'Auto' will try to adapt to games, cropping empty areas."
-msgstr ""
+msgstr "Az automatikus beállítás alkalmazkodik a játékokhoz, levágja az üres területeket."
 
 msgctxt "#30055"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr ""
+msgstr "Az első megjelenített scanline. Nagyobb érték vágja a kép tetejét."
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (alapértelmezett)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr ""
+msgstr "Az utolsó megjelenített scanline. Nagyobb érték vágja a kép alját."
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (alapértelmezett)"
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Hang"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Az emulált hangeszközök beállításai."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
-msgstr ""
+msgstr "HuC6280: eredeti PC Engine, HuC6280A: SuperGrafx és CoreGrafx I."
 
 msgctxt "#30062"
 msgid "Higher values give better signal-to-noise ratio and preservation of higher frequencies but increase the computation cost and may cause higher latency and clipping if the volume is set too high."
-msgstr ""
+msgstr "Magasabb értékek jobb jel-zaj arányt eredményeznek és jobban megőrzik a magas frekvenciákat, de növelik a számításigényt és nagyobb késleltetést okozhatnak, illetve torzítást is, ha a hangerő túl magasra van állítva."
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Bevitel"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
-msgstr ""
+msgstr "A fénypisztoly, az egér és a kontroller bemeneti beállításai."
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Magasabb értékek az egérkurzor gyorsabb mozgását eredményezik."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr ""
+msgstr "A jobb és bal (vagy fel és le) irányok egyidejű/gyorsan váltakozó lenyomásának vagy nyomva tartásának engedélyezése. Hibákat okozhat a mozgatásban."
 
 msgctxt "#30067"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr ""
+msgstr "A RUN és SELECT gombok egyidejű megnyomásakor mindkét gomb ideiglenes letiltása, reset helyett."
 
 msgctxt "#30068"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr ""
+msgstr "Legfeljebb 5 játékos engedélyezése multitap emulációval. Csak néhány esetben szükséges kikapcsolni (pl. Cho Aniki)."
 
 msgctxt "#30069"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Az 1. csatlakozó induláskor 2 vagy 6 gombos-e. Ez a beállítás csak a mag elindításakor jut érvényre, tartalom futtatása közben a \"Módváltás\" gomb használható. Figyelem: a 6 gombos joypadnak furcsa hatása lehet az azzal nem kompatibilis játékokra."
 
 msgctxt "#30070"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "A 2. csatlakozó induláskor 2 vagy 6 gombos-e. Ez a beállítás csak a mag elindításakor jut érvényre, tartalom futtatása közben a \"Módváltás\" gomb használható. Figyelem: a 6 gombos joypadnak furcsa hatása lehet az azzal nem kompatibilis játékokra."
 
 msgctxt "#30071"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "A 3. csatlakozó induláskor 2 vagy 6 gombos-e. Ez a beállítás csak a mag elindításakor jut érvényre, tartalom futtatása közben a \"Módváltás\" gomb használható. Figyelem: a 6 gombos joypadnak furcsa hatása lehet az azzal nem kompatibilis játékokra."
 
 msgctxt "#30072"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "A 4. csatlakozó induláskor 2 vagy 6 gombos-e. Ez a beállítás csak a mag elindításakor jut érvényre, tartalom futtatása közben a \"Módváltás\" gomb használható. Figyelem: a 6 gombos joypadnak furcsa hatása lehet az azzal nem kompatibilis játékokra."
 
 msgctxt "#30073"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr ""
+msgstr "Az 5. csatlakozó induláskor 2 vagy 6 gombos-e. Ez a beállítás csak a mag elindításakor jut érvényre, tartalom futtatása közben a \"Módváltás\" gomb használható. Figyelem: a 6 gombos joypadnak furcsa hatása lehet az azzal nem kompatibilis játékokra."
 
 msgctxt "#30074"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr ""
+msgstr "Turbó gombok engedélyezése. A gyorsgombok (III és IV) váltógombként vagy kijelölt (nyomva tartással használható) turbó gombként működhetnek."
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr ""
+msgstr "Váltógomb"
 
 msgctxt "#30076"
 msgid "Dedicated"
-msgstr ""
+msgstr "Kijelölt"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr ""
+msgstr "A III és IV gomb helyett a RetroPad L3/R3 gombjait rendeli a turbo átkapcsoláshoz. Csak Váltógomb módban, és akkor működik, ha nincs semmi az L3/R3 gombhoz rendelve. Ezzel elkerülhető a III és IV gomb átirányítása a 6-gombos kontroller módba kapcsoláskor."
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
-msgstr ""
+msgstr "A gombnyomások ismétlésének gyorsasága."
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Emulációs trükkök"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "A processzor túlhajtás és az emuláció pontosságának beállításai, amelyek befolyásolják az alacsonyszintű teljesítményt és a kompatibilitást."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
-msgstr ""
+msgstr "Megszünteti a hardver soronként legfeljebb 16 sprite-os korlátozását. Figyelem: grafikus hibákat okozhat néhány játéknál(mint pl. Bloody Wolf)."
 
 msgctxt "#30082"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr ""
+msgstr "Nagyobb értékek csökkenthetik a lassulást a játékokban. Figyelem: hibákat és összeomlást okozhat."
 
 msgctxt "#30083"
 msgid "PC Engine CD"
-msgstr ""
+msgstr "A PC Engine CD meghajtója"
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "A PC Engine CD emulációs beállításai."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr ""
+msgstr "Indításkor beolvassa a teljes képfájlt a memóriába. Csökkentheti a töltési időket a lassabb indulásért cserébe."
 
 msgctxt "#30086"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr ""
+msgstr "A legtöbb játék képes futni a \"System Card 3\"-mal. Számos nem licenszelt játékhoz szükség van a \"Games Express\"-re."
 
 msgctxt "#30087"
 msgid "Leave this option enabled to allow enhanced modes of ACD-enhanced SCD games."
-msgstr ""
+msgstr "Az Arcade CD-ROM által feljavított Super CD-ROM javított módjainak engedélyezése."
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "A nagyobb értékek segítik a gyorsabb töltést, de gondot okozhatnak pár játéknál."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
-msgstr ""
+msgstr "Az MSM5205 ADPCM predictor teljes 12 bites pontossága csökkentheti a nyüszítő zajt ADPCM visszajátszáskor."
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Csak CD játékoknál. Ezen hangerő túl magas értéke torzítást okozhat."
 
 msgctxt "#30091"
 msgid "6:5"

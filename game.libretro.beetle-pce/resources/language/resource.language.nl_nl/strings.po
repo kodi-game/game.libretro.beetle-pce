@@ -31,7 +31,7 @@ msgstr ""
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Beeldverhouding"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
@@ -215,7 +215,7 @@ msgstr ""
 
 msgctxt "#30048"
 msgid "Auto"
-msgstr ""
+msgstr "Automatisch"
 
 msgctxt "#30049"
 msgid "Uncorrected"
@@ -259,7 +259,7 @@ msgstr ""
 
 msgctxt "#30059"
 msgid "Audio"
-msgstr ""
+msgstr "Geluid"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Invoer"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."

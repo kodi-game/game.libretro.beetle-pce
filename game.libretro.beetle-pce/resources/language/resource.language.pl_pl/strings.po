@@ -27,15 +27,15 @@ msgstr ""
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr ""
+msgstr "Paleta kolorów"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr ""
+msgstr "Współczynnik proporcji"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr ""
+msgstr "Skalowanie rozdzielczości"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
@@ -63,19 +63,19 @@ msgstr ""
 
 msgctxt "#30010"
 msgid "Show Advanced Input/Turbo Settings"
-msgstr ""
+msgstr "Pokaż zaawansowane ustawienia wejścia/Turbo"
 
 msgctxt "#30011"
 msgid "Mouse Sensitivity"
-msgstr ""
+msgstr "Czułość myszy"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
-msgstr ""
+msgstr "Zezwalaj na przeciwne kierunki"
 
 msgctxt "#30013"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr ""
+msgstr "Wyłącz resetowanie systemu (RUN+SELECT)"
 
 msgctxt "#30014"
 msgid "Multitap 5-port Controller"
@@ -107,11 +107,11 @@ msgstr ""
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr ""
+msgstr "Alternatywny skrót Turbo"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr ""
+msgstr "Turbo Prędkość"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
@@ -163,31 +163,31 @@ msgstr ""
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr ""
+msgstr "Karta Arcade (wymagany restart)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
-msgstr ""
+msgstr "(CD) Prędkość CD"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
-msgstr ""
+msgstr "(CD) precyzja ADPCM"
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr ""
+msgstr "(CD) Głośność ADPCM %"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr ""
+msgstr "(CD) Głośność CDDA %"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
-msgstr ""
+msgstr "(CD) Głośność CD PSG %"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr ""
+msgstr "Bez limitu duszków"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
@@ -199,11 +199,11 @@ msgstr ""
 
 msgctxt "#30044"
 msgid "Video"
-msgstr ""
+msgstr "Wideo"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
-msgstr ""
+msgstr "Skonfiguruj proporcje, wyświetlaj przycinanie i inne parametry wyjściowe obrazu."
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
@@ -219,7 +219,7 @@ msgstr ""
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr ""
+msgstr "Niepoprawione"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
@@ -227,11 +227,11 @@ msgstr ""
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr ""
+msgstr "Niska rozdzielczość"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr ""
+msgstr "Wysoka rozdzielczość"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
@@ -247,7 +247,7 @@ msgstr ""
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr ""
+msgstr "3 (domyślnie)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
@@ -255,7 +255,7 @@ msgstr ""
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr ""
+msgstr "242 (domyślnie)"
 
 msgctxt "#30059"
 msgid "Audio"
@@ -263,7 +263,7 @@ msgstr ""
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr ""
+msgstr "Skonfiguruj emulowane urządzenia audio."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
@@ -275,7 +275,7 @@ msgstr ""
 
 msgctxt "#30063"
 msgid "Input"
-msgstr ""
+msgstr "Wejście"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
@@ -283,7 +283,7 @@ msgstr ""
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr ""
+msgstr "Wyższe wartości sprawią, że kursor myszy będzie się szybszy."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
@@ -323,7 +323,7 @@ msgstr ""
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr ""
+msgstr "Przełącz"
 
 msgctxt "#30076"
 msgid "Dedicated"
@@ -339,11 +339,11 @@ msgstr ""
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr ""
+msgstr "Hacki emulacyjne"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr ""
+msgstr "Skonfiguruj przetaktowanie procesora i dokładność emulacji wpływające na niską wydajność i kompatybilność."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
@@ -359,7 +359,7 @@ msgstr ""
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr ""
+msgstr "Skonfiguruj ustawienia związane z emulacją PC Engine CD."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
@@ -375,15 +375,15 @@ msgstr ""
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr ""
+msgstr "Wyższe wartości umożliwiają szybsze ładowanie, ale mogą powodować problemy z kilkoma grami."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
-msgstr ""
+msgstr "Pełna precyzja 12-bitów dla predyktora ADPCM MSM5205 może zmniejszyć szum podczas odtwarzania ADPCM."
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr ""
+msgstr "Tylko gra CD. Ustawienie tej kontroli głośności może spowodować przycinanie próbki."
 
 msgctxt "#30091"
 msgid "6:5"

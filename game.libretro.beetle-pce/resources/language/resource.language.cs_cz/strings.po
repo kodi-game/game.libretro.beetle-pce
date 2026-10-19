@@ -27,91 +27,91 @@ msgstr "Beetle PC Engine je odvozen od jádra PC Engine z Mednafenu.[CR][CR]Tent
 
 msgctxt "#30001"
 msgid "Color Palette"
-msgstr "Barevná paleta"
+msgstr "Paleta barev"
 
 msgctxt "#30002"
 msgid "Aspect Ratio"
-msgstr "Poměr stran"
+msgstr "Poměr Stran"
 
 msgctxt "#30003"
 msgid "Resolution Scaling"
-msgstr "Škálování rozlišení"
+msgstr "Škálování Rozlišení"
 
 msgctxt "#30004"
 msgid "High Resolution Blending Strength"
-msgstr "Síla prolínání ve vysokém rozlišení"
+msgstr "Síla Mísení Vysokého Rozlišení"
 
 msgctxt "#30005"
 msgid "Show Horizontal Overscan"
-msgstr "Zobrazit horizontální overscan"
+msgstr "Zobrazit Horizontální Overscan"
 
 msgctxt "#30006"
 msgid "Initial Scanline"
-msgstr "Počáteční skenovací řádek"
+msgstr "Počáteční skenovací linie"
 
 msgctxt "#30007"
 msgid "Last Scanline"
-msgstr "Poslední skenovací řádek"
+msgstr "Poslední skenovací linie"
 
 msgctxt "#30008"
 msgid "PSG Audio Chip (Restart Required)"
-msgstr "Zvukový čip PSG (vyžaduje restart)"
+msgstr "Zvukový Čip PSG (Nutný Restart)"
 
 msgctxt "#30009"
 msgid "Owl Resampler Quality"
-msgstr "Kvalita resampleru Owl"
+msgstr "Kvalita Sovího Převzorkování"
 
 msgctxt "#30010"
 msgid "Show Advanced Input/Turbo Settings"
-msgstr "Zobrazit pokročilá nastavení vstupu/Turbo"
+msgstr "Zobrazit Pokročilá Nastavení Vstupu/Turba"
 
 msgctxt "#30011"
 msgid "Mouse Sensitivity"
-msgstr "Citlivost myši"
+msgstr "Citlivost Myší"
 
 msgctxt "#30012"
 msgid "Allow Opposing Directions"
-msgstr "Povolit protichůdné směry"
+msgstr "Povolení Opačných Směrů"
 
 msgctxt "#30013"
 msgid "Disable Soft Reset (RUN+SELECT)"
-msgstr "Zakázat soft reset (RUN+SELECT)"
+msgstr "Zakázat Měkký Reset (RUN+SELECT)"
 
 msgctxt "#30014"
 msgid "Multitap 5-port Controller"
-msgstr "5portový ovladač Multitap"
+msgstr "Multitap 5-portový Ovladač"
 
 msgctxt "#30015"
 msgid "P1 Default Joypad Type"
-msgstr "Výchozí typ joypadu P1"
+msgstr "P1 Výchozí typ joypadu"
 
 msgctxt "#30016"
 msgid "P2 Default Joypad Type"
-msgstr "Výchozí typ joypadu P2"
+msgstr "P2 Výchozí typ joypadu"
 
 msgctxt "#30017"
 msgid "P3 Default Joypad Type"
-msgstr "Výchozí typ joypadu P3"
+msgstr "P3 Výchozí typ joypadu"
 
 msgctxt "#30018"
 msgid "P4 Default Joypad Type"
-msgstr "Výchozí typ joypadu P4"
+msgstr "P4 Výchozí typ joypadu"
 
 msgctxt "#30019"
 msgid "P5 Default Joypad Type"
-msgstr "Výchozí typ joypadu P5"
+msgstr "P5 Výchozí typ joypadu"
 
 msgctxt "#30020"
 msgid "Turbo Hotkey Mode"
-msgstr "Režim zkratky Turbo"
+msgstr "Režim Turbo Hotkey"
 
 msgctxt "#30021"
 msgid "Alternate Turbo Hotkey"
-msgstr "Alternativní zkratka Turbo"
+msgstr "Alternativní Hotkey Turbo"
 
 msgctxt "#30022"
 msgid "Turbo Speed"
-msgstr "Rychlost Turbo"
+msgstr "Turbo Rychlost"
 
 msgctxt "#30023"
 msgid "P1 Turbo I"
@@ -155,15 +155,15 @@ msgstr "Turbo II pro P5"
 
 msgctxt "#30033"
 msgid "CD Image Cache (Restart Required)"
-msgstr "Mezipaměť bitových kopií CD (vyžaduje restart)"
+msgstr "Vyrovnávací paměť obrazu CD (nutný restart)"
 
 msgctxt "#30034"
 msgid "CD Bios (Restart Required)"
-msgstr "BIOS CD (vyžaduje restart)"
+msgstr "CD Bios (Nutný Restart)"
 
 msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
-msgstr "Arcade Card (vyžaduje restart)"
+msgstr "Arkádová karta (Nutný Restart)"
 
 msgctxt "#30036"
 msgid "(CD) CD Speed"
@@ -171,31 +171,31 @@ msgstr "(CD) Rychlost CD"
 
 msgctxt "#30037"
 msgid "(CD) ADPCM precision"
-msgstr "(CD) Přesnost ADPCM"
+msgstr "(CD) přesnost ADPCM"
 
 msgctxt "#30038"
 msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Hlasitost ADPCM %"
+msgstr "(CD) ADPCM Hlasitost %"
 
 msgctxt "#30039"
 msgid "(CD) CDDA Volume %"
-msgstr "(CD) Hlasitost CDDA %"
+msgstr "(CD) CDDA Hlasitost %"
 
 msgctxt "#30040"
 msgid "(CD) CD PSG Volume %"
-msgstr "(CD) Hlasitost PSG %"
+msgstr "(CD) PSG Hlasitost %"
 
 msgctxt "#30041"
 msgid "No Sprite Limit"
-msgstr "Bez limitu spritů"
+msgstr "Žádný Limit Spritu"
 
 msgctxt "#30042"
 msgid "CPU Overclock Multiplier"
-msgstr "Násobitel přetaktování CPU"
+msgstr "Násobitel Přetaktování CPU"
 
 msgctxt "#30043"
 msgid "Show Multitap, Mouse, Turbo Buttons and advanced parameters. NOTE: You may need to go back in game and re-enter the menu to refresh the list."
-msgstr "Zobrazit Multitap, myš, tlačítka Turbo a pokročilé parametry. POZNÁMKA: Pro obnovení seznamu se možná budete muset vrátit do hry a znovu vstoupit do nabídky."
+msgstr "Zobrazení tlačítek Multitap, Myš, Turbo a pokročilých parametrů. POZNÁMKA: Pro obnovení seznamu se možná budete muset vrátit do hry a znovu vstoupit do menu."
 
 msgctxt "#30044"
 msgid "Video"
@@ -203,15 +203,15 @@ msgstr "Video"
 
 msgctxt "#30045"
 msgid "Configure aspect ratio, display cropping and other image output parameters."
-msgstr "Konfigurovat poměr stran, ořez zobrazení a další parametry výstupu obrazu."
+msgstr "Konfigurace poměru stran, ořezu zobrazení a dalších výstupních parametrů obrázku."
 
 msgctxt "#30046"
 msgid "Composite tries to recreate the original console output and can show more details in some games."
-msgstr "Režim Composite se pokouší napodobit původní výstup konzole a v některých hrách může zobrazit více detailů."
+msgstr "Kompozitně se snaží obnovit původní výstup z konzole a v některých hrách může zobrazit více detailů."
 
 msgctxt "#30047"
 msgid "Choose the preferred content aspect ratio. This will only apply when RetroArch's aspect ratio is set to 'Core provided' in the Video settings."
-msgstr "Zvolit preferovaný poměr stran obsahu. Použije se pouze tehdy, je-li v nastavení videa RetroArchu poměr stran nastaven na „Poskytnuto jádrem“."
+msgstr "Zvolte preferovaný poměr stran obsahu. To se použije pouze v případě, že je poměr stran aplikace RetroArch v nastavení videa nastaven na hodnotu 'Poskytnuté jádro'."
 
 msgctxt "#30048"
 msgid "Auto"
@@ -219,43 +219,43 @@ msgstr "Automaticky"
 
 msgctxt "#30049"
 msgid "Uncorrected"
-msgstr "Nekorigovaný"
+msgstr "Neopraveno"
 
 msgctxt "#30050"
 msgid "'Auto' will allow the resolution to change. 'Low Resolution' can crush pixels. 'High Resolution' will stay on the maximum width."
-msgstr "„Automaticky“ umožní změnu rozlišení. „Nízké rozlišení“ může sloučit pixely. „Vysoké rozlišení“ zůstane na maximální šířce."
+msgstr "'Auto' umožní změnu rozlišení. 'Nízké Rozlišení' může rozdrtit pixely. 'Vysoké Rozlišení' zůstane na maximální šířce."
 
 msgctxt "#30051"
 msgid "Low Resolution"
-msgstr "Nízké rozlišení"
+msgstr "Nízké Rozlišení"
 
 msgctxt "#30052"
 msgid "High Resolution"
-msgstr "Vysoké rozlišení"
+msgstr "Vysoké Rozlišení"
 
 msgctxt "#30053"
 msgid "Blend pixels together when in High Resolution mode. Higher values will blur the picture more."
-msgstr "Prolínat pixely v režimu vysokého rozlišení. Vyšší hodnoty obraz více rozmažou."
+msgstr "Prolínání pixelů v režimu vysokého rozlišení. Vyšší hodnoty obraz více rozostří."
 
 msgctxt "#30054"
 msgid "'Auto' will try to adapt to games, cropping empty areas."
-msgstr "„Automaticky“ se pokusí přizpůsobit hrám a ořízne prázdné oblasti."
+msgstr "Režim 'Auto' se pokusí přizpůsobit hrám a ořízne prázdné oblasti."
 
 msgctxt "#30055"
 msgid "First rendered scanline. Higher values will crop the top of the image."
-msgstr "První vykreslovaný skenovací řádek. Vyšší hodnoty oříznou horní část obrazu."
+msgstr "První vykreslená skenovací linie. Vyšší hodnoty oříznou horní část obrázku."
 
 msgctxt "#30056"
 msgid "3 (Default)"
-msgstr "3 (výchozí)"
+msgstr "3 (Výchozí)"
 
 msgctxt "#30057"
 msgid "Last rendered scanline. Lower values will crop the bottom of the image."
-msgstr "Poslední vykreslovaný skenovací řádek. Nižší hodnoty oříznou dolní část obrazu."
+msgstr "Poslední vykreslená skenovací linie. Nižší hodnoty oříznou spodní část obrázku."
 
 msgctxt "#30058"
 msgid "242 (Default)"
-msgstr "242 (výchozí)"
+msgstr "242 (Výchozí)"
 
 msgctxt "#30059"
 msgid "Audio"
@@ -263,15 +263,15 @@ msgstr "Zvuk"
 
 msgctxt "#30060"
 msgid "Configure emulated audio devices."
-msgstr "Konfigurovat emulovaná zvuková zařízení."
+msgstr "Konfigurace emulovaných zvukových zařízení."
 
 msgctxt "#30061"
 msgid "HuC6280 represents the original PC Engine, HuC6280A the SuperGrafx and CoreGrafx I."
-msgstr "HuC6280 označuje původní PC Engine, HuC6280A SuperGrafx a CoreGrafx I."
+msgstr "HuC6280 představuje původní PC Engine, HuC6280A SuperGrafx a CoreGrafx I."
 
 msgctxt "#30062"
 msgid "Higher values give better signal-to-noise ratio and preservation of higher frequencies but increase the computation cost and may cause higher latency and clipping if the volume is set too high."
-msgstr "Vyšší hodnoty poskytují lepší poměr signálu k šumu a zachování vyšších frekvencí, ale zvyšují náročnost výpočtů a při příliš vysoké hlasitosti mohou způsobit vyšší latenci a ořezání."
+msgstr "Vyšší hodnoty poskytují lepší odstup signálu od šumu a zachování vyšších frekvencí, ale zvyšují náklady na výpočet a mohou způsobit vyšší latenci a oříznutí, pokud je hlasitost nastavena příliš vysoko."
 
 msgctxt "#30063"
 msgid "Input"
@@ -279,79 +279,79 @@ msgstr "Vstup"
 
 msgctxt "#30064"
 msgid "Configure light gun, mouse and controller input."
-msgstr "Konfigurovat vstup světelné pistole, myši a ovladače."
+msgstr "Konfigurace vstupu světelné pistole, myši a ovladače."
 
 msgctxt "#30065"
 msgid "Higher values will make the mouse cursor move faster."
-msgstr "Vyšší hodnoty zrychlí pohyb kurzoru myši."
+msgstr "Při vyšších hodnotách se kurzor myši pohybuje rychleji."
 
 msgctxt "#30066"
 msgid "Enabling this will allow pressing / quickly alternating / holding both left and right (or up and down) directions at the same time. This may cause movement-based glitches."
-msgstr "Povolení umožní současně stisknout / rychle střídat / držet oba směry vlevo a vpravo (nebo nahoru a dolů). To může způsobit chyby při pohybu."
+msgstr "Povolení této funkce umožní stisknout / rychle střídat / držet současně levý i pravý směr (nebo nahoru a dolů). To může způsobit závady založené na pohybu."
 
 msgctxt "#30067"
 msgid "When RUN and SELECT are pressed simultaneously, disable both buttons temporarily instead of resetting."
-msgstr "Při současném stisknutí RUN a SELECT dočasně zakázat obě tlačítka místo resetování."
+msgstr "Při současném stisknutí tlačítek RUN a SELECT se místo resetování dočasně vypnou obě tlačítka."
 
 msgctxt "#30068"
 msgid "Enable up to 5-player multitap emulation. Disabling this is only needed in some cases (e.g. Cho Aniki)."
-msgstr "Povolit emulaci multitapu až pro 5 hráčů. Vypnutí je potřeba jen v některých případech (např. Cho Aniki)."
+msgstr "Umožňuje emulaci až 5 hráčů ve více lidech. Vypnutí této funkce je nutné pouze v některých případech (např. Cho Aniki)."
 
 msgctxt "#30069"
 msgid "Choose if port 1 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Zvolit, zda má mít joypad portu 1 ve výchozím nastavení 2, nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra. Chcete-li přepnout za běhu obsahu, použijte tlačítko „Přepnutí režimu“. POZNÁMKA: Šestitlačítkový joypad se v nekompatibilních hrách může chovat podivně."
+msgstr "Zvolte, zda má mít joypad port 1 ve výchozím nastavení 2 nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra, pokud chcete přepínat za běhu obsahu, použijte tlačítko \"Přepínač režimů\". POZNÁMKA: 6tlačítkový joypad může mít v nekompatibilních hrách podivné chování."
 
 msgctxt "#30070"
 msgid "Choose if port 2 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Zvolit, zda má mít joypad portu 2 ve výchozím nastavení 2, nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra. Chcete-li přepnout za běhu obsahu, použijte tlačítko „Přepnutí režimu“. POZNÁMKA: Šestitlačítkový joypad se v nekompatibilních hrách může chovat podivně."
+msgstr "Vyberte, zda má mít joypad port 2 ve výchozím nastavení 2 nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra, pokud chcete přepínat za běhu obsahu, použijte tlačítko \"Přepínač režimů\". POZNÁMKA: 6tlačítkový joypad může mít v nekompatibilních hrách podivné chování."
 
 msgctxt "#30071"
 msgid "Choose if port 3 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Zvolit, zda má mít joypad portu 3 ve výchozím nastavení 2, nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra. Chcete-li přepnout za běhu obsahu, použijte tlačítko „Přepnutí režimu“. POZNÁMKA: Šestitlačítkový joypad se v nekompatibilních hrách může chovat podivně."
+msgstr "Zvolte, zda má mít joypad port 3 ve výchozím nastavení 2 nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra, pokud chcete přepínat za běhu obsahu, použijte tlačítko \"Přepínač režimů\". POZNÁMKA: 6tlačítkový joypad může mít v nekompatibilních hrách podivné chování."
 
 msgctxt "#30072"
 msgid "Choose if port 4 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Zvolit, zda má mít joypad portu 4 ve výchozím nastavení 2, nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra. Chcete-li přepnout za běhu obsahu, použijte tlačítko „Přepnutí režimu“. POZNÁMKA: Šestitlačítkový joypad se v nekompatibilních hrách může chovat podivně."
+msgstr "Zvolte, zda má mít joypad port 4 ve výchozím nastavení 2 nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra, pokud chcete přepínat za běhu obsahu, použijte tlačítko \"Přepínač režimů\". POZNÁMKA: 6tlačítkový joypad může mít v nekompatibilních hrách podivné chování."
 
 msgctxt "#30073"
 msgid "Choose if port 5 joypad should be 2 or 6 buttons by default. This option is only applied when the core starts, if you want to switch while content is running, use the 'Mode Switch' button. NOTE: 6 buttons joypad can have weird behaviors in non compatible games."
-msgstr "Zvolit, zda má mít joypad portu 5 ve výchozím nastavení 2, nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra. Chcete-li přepnout za běhu obsahu, použijte tlačítko „Přepnutí režimu“. POZNÁMKA: Šestitlačítkový joypad se v nekompatibilních hrách může chovat podivně."
+msgstr "Zvolte, zda má mít joypad port 5 ve výchozím nastavení 2 nebo 6 tlačítek. Tato volba se použije pouze při spuštění jádra, pokud chcete přepínat za běhu obsahu, použijte tlačítko \"Přepínač režimů\". POZNÁMKA: 6tlačítkový joypad může mít v nekompatibilních hrách podivné chování."
 
 msgctxt "#30074"
 msgid "Enable turbo buttons. Hotkeys (buttons III and IV) can behave as either toggle switches or dedicated (hold to use) turbo buttons."
-msgstr "Povolit tlačítka Turbo. Klávesové zkratky (tlačítka III a IV) se mohou chovat jako přepínače nebo vyhrazená tlačítka Turbo (použití podržením)."
+msgstr "Povolení turbo tlačítek. Klávesové zkratky (tlačítka III a IV) se mohou chovat jako přepínače nebo jako vyhrazená turbo tlačítka (pro použití je třeba je podržet)."
 
 msgctxt "#30075"
 msgid "Toggle"
-msgstr "Přepínání"
+msgstr "Přepínač"
 
 msgctxt "#30076"
 msgid "Dedicated"
-msgstr "Vyhrazené"
+msgstr "Věnováno"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr "Přiřadit tlačítka L3/R3 ovladače RetroPad jako klávesové zkratky Turbo místo tlačítek III a IV. Funguje pouze v režimu „Přepínání“ a jen pokud tlačítkům L3/R3 není nic přiřazeno. Při přepnutí do režimu šestitlačítkového ovladače se tak lze vyhnout přemapování tlačítek III a IV."
+msgstr "Přiřazení tlačítek L3/R3 zařízení RetroPad jako turbo klávesových zkratek namísto tlačítek III a IV. Funguje pouze v režimu 'Přepínač' a pouze pokud není tlačítkům L3/R3 nic přiřazeno. Pomocí této funkce se můžete vyhnout přemapování tlačítek III a IV při přepnutí do režimu šestitlačítkového ovladače."
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
-msgstr "Zvolit rychlost opakování stisknutí tlačítek."
+msgstr "Zvolte, jak rychle se budou opakovat stisky tlačítek."
 
 msgctxt "#30079"
 msgid "Emulation Hacks"
-msgstr "Emulační hacky"
+msgstr "Emulace Hacků"
 
 msgctxt "#30080"
 msgid "Configure processor overclocking and emulation accuracy parameters affecting low-level performance and compatibility."
-msgstr "Konfigurovat přetaktování procesoru a parametry přesnosti emulace ovlivňující výkon na nízké úrovni a kompatibilitu."
+msgstr "Konfigurace parametrů přetaktování procesoru a přesnosti emulace ovlivňujících výkon a kompatibilitu na nízké úrovni."
 
 msgctxt "#30081"
 msgid "Remove 16-sprites-per-scanline hardware limit. WARNING: May cause graphics glitching on some games (such as Bloody Wolf)."
-msgstr "Odstranit hardwarový limit 16 spriteů na skenovací řádek. VAROVÁNÍ: V některých hrách (např. Bloody Wolf) to může způsobit grafické chyby."
+msgstr "Odstranění hardwarového limitu 16 bodů na řádek. UPOZORNĚNÍ: V některých hrách (např. Bloody Wolf) může způsobovat grafické závady."
 
 msgctxt "#30082"
 msgid "Higher values can reduce slowdowns in games. WARNING: Can cause glitches and crashes."
-msgstr "Vyšší hodnoty mohou v hrách omezit zpomalování. VAROVÁNÍ: Mohou způsobit chyby a pády."
+msgstr "Vyšší hodnoty mohou snížit zpomalení ve hrách. VAROVÁNÍ: Může způsobit závady a pády."
 
 msgctxt "#30083"
 msgid "PC Engine CD"
@@ -359,31 +359,31 @@ msgstr "PC Engine CD"
 
 msgctxt "#30084"
 msgid "Configure settings related to the PC Engine CD emulation."
-msgstr "Konfigurovat nastavení emulace PC Engine CD."
+msgstr "Konfigurace nastavení týkajících se emulace disku CD PC Engine."
 
 msgctxt "#30085"
 msgid "Load the complete image into memory at startup. Can potentially decrease loading times at the cost of an increased startup time."
-msgstr "Při spuštění načíst celý obraz do paměti. Může zkrátit dobu načítání za cenu delšího spuštění."
+msgstr "Načíst kompletní obraz do paměti při spuštění. Může potenciálně zkrátit dobu načítání za cenu prodloužení doby spouštění."
 
 msgctxt "#30086"
 msgid "Most games can run on 'System Card 3'. 'Games Express' is needed for several unlicensed games."
-msgstr "Většina her funguje se „System Card 3“. Pro několik nelicencovaných her je vyžadován „Games Express“."
+msgstr "Většinu her lze spustit na 'Systémová Karta 3'. Pro některé nelicencované hry je zapotřebí 'Games Express'."
 
 msgctxt "#30087"
 msgid "Leave this option enabled to allow enhanced modes of ACD-enhanced SCD games."
-msgstr "Ponechat tuto volbu povolenou, aby byly povoleny rozšířené režimy her SCD s vylepšením ACD."
+msgstr "Tuto možnost ponechte povolenou, chcete-li povolit rozšířené režimy her SCD s podporou ACD."
 
 msgctxt "#30088"
 msgid "Higher values enable faster loading times but can cause issues with a couple of games."
-msgstr "Vyšší hodnoty zrychlují načítání, ale u několika her mohou způsobit problémy."
+msgstr "Vyšší hodnoty umožňují rychlejší načítání, ale u několika her mohou způsobit problémy."
 
 msgctxt "#30089"
 msgid "Full precision of 12-bits for the MSM5205 ADPCM predictor can reduce whining noise during ADPCM playback."
-msgstr "Plná 12bitová přesnost prediktoru ADPCM MSM5205 může při přehrávání ADPCM omezit pískavý šum."
+msgstr "Plná přesnost 12 bitů u prediktoru ADPCM MSM5205 může snížit kvílivý šum při přehrávání ADPCM."
 
 msgctxt "#30090"
 msgid "CD game only. Setting this volume control too high may cause sample clipping."
-msgstr "Pouze pro hry na CD. Nastavení této hlasitosti na příliš vysokou hodnotu může způsobit ořezání vzorků."
+msgstr "Pouze hra na CD. Příliš vysoké nastavení tohoto ovladače hlasitosti může způsobit oříznutí vzorku."
 
 msgctxt "#30091"
 msgid "6:5"
