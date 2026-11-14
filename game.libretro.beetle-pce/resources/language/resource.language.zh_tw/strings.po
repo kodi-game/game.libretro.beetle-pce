@@ -165,26 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr "街機卡 (需要重新啟動)"
 
-msgctxt "#30036"
-msgid "(CD) CD Speed"
-msgstr "(光碟機) 讀取速度"
-
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr "(光碟機) ADPCM 精確度"
-
-msgctxt "#30038"
-msgid "(CD) ADPCM Volume %"
-msgstr "(光碟機) ADPCM 音量 %"
-
-msgctxt "#30039"
-msgid "(CD) CDDA Volume %"
-msgstr "(光碟機) CDDA 音量 %"
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr "(光碟機) PSG 音量 %"
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "沒有物件限制"
@@ -706,3 +686,43 @@ msgstr ""
 msgctxt "#30169"
 msgid "HuC6280A"
 msgstr ""
+
+msgctxt "#30170"
+msgid "CD Speed"
+msgstr "讀取速度"
+
+msgctxt "#30171"
+msgid "ADPCM precision"
+msgstr "ADPCM 精確度"
+
+msgctxt "#30172"
+msgid "ADPCM Volume %"
+msgstr "ADPCM 音量 %"
+
+msgctxt "#30173"
+msgid "CDDA Volume %"
+msgstr "CDDA 音量 %"
+
+msgctxt "#30174"
+msgid "CD PSG Volume %"
+msgstr "PSG 音量 %"
+
+#~ msgctxt "#30036"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(光碟機) 讀取速度"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(光碟機) ADPCM 精確度"
+
+#~ msgctxt "#30038"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(光碟機) ADPCM 音量 %"
+
+#~ msgctxt "#30039"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(光碟機) CDDA 音量 %"
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(光碟機) PSG 音量 %"

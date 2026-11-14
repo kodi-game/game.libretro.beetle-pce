@@ -560,7 +560,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_cdspeed" type="string" label="30036" help="30088">
+				<setting id="pce_cdspeed" type="string" label="30170" help="30088">
 					<level>0</level>
 					<default>1</default>
 					<constraints>
@@ -573,7 +573,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_adpcmextraprec" type="string" label="30037" help="30089">
+				<setting id="pce_adpcmextraprec" type="string" label="30171" help="30089">
 					<level>0</level>
 					<default>10-bit</default>
 					<constraints>
@@ -584,7 +584,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_adpcmvolume" type="string" label="30038" help="30090">
+				<setting id="pce_adpcmvolume" type="string" label="30172" help="30090">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -614,7 +614,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_cddavolume" type="string" label="30039" help="30090">
+				<setting id="pce_cddavolume" type="string" label="30173" help="30090">
 					<level>0</level>
 					<default>100</default>
 					<constraints>
@@ -644,7 +644,7 @@
 					</constraints>
 					<control type="list" format="string" />
 				</setting>
-				<setting id="pce_cdpsgvolume" type="string" label="30040" help="30090">
+				<setting id="pce_cdpsgvolume" type="string" label="30174" help="30090">
 					<level>0</level>
 					<default>100</default>
 					<constraints>

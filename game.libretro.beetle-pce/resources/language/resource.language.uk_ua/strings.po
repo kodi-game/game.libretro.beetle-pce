@@ -165,26 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr "Картка Аркади (потрібен перезапуск)"
 
-msgctxt "#30036"
-msgid "(CD) CD Speed"
-msgstr "(CD) Швидкість CD"
-
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr "(CD) точність ADPCM"
-
-msgctxt "#30038"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Гучність PSG %"
-
-msgctxt "#30039"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Гучність CDDA %"
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr "(CD) CD PSG Об'єм %"
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "Ліміт спрайтів немає"
@@ -700,3 +680,43 @@ msgstr ""
 msgctxt "#30169"
 msgid "HuC6280A"
 msgstr ""
+
+msgctxt "#30170"
+msgid "CD Speed"
+msgstr "Швидкість CD"
+
+msgctxt "#30171"
+msgid "ADPCM precision"
+msgstr "ADPCM точність"
+
+msgctxt "#30172"
+msgid "ADPCM Volume %"
+msgstr "Гучність ADPCM %"
+
+msgctxt "#30173"
+msgid "CDDA Volume %"
+msgstr "Гучність CDDA %"
+
+msgctxt "#30174"
+msgid "CD PSG Volume %"
+msgstr "Гучність PSG %"
+
+#~ msgctxt "#30036"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Швидкість CD"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(CD) точність ADPCM"
+
+#~ msgctxt "#30038"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Гучність PSG %"
+
+#~ msgctxt "#30039"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Гучність CDDA %"
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(CD) CD PSG Об'єм %"

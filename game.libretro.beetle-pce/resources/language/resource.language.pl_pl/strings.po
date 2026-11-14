@@ -165,26 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr "Karta Arcade (wymagany restart)"
 
-msgctxt "#30036"
-msgid "(CD) CD Speed"
-msgstr "(CD) Prędkość CD"
-
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr "(CD) precyzja ADPCM"
-
-msgctxt "#30038"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) Głośność ADPCM %"
-
-msgctxt "#30039"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) Głośność CDDA %"
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr "(CD) Głośność CD PSG %"
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "Bez limitu duszków"
@@ -700,3 +680,43 @@ msgstr ""
 msgctxt "#30169"
 msgid "HuC6280A"
 msgstr ""
+
+msgctxt "#30170"
+msgid "CD Speed"
+msgstr "Prędkość CD"
+
+msgctxt "#30171"
+msgid "ADPCM precision"
+msgstr "Dokładność ADPCM"
+
+msgctxt "#30172"
+msgid "ADPCM Volume %"
+msgstr "Głośność ADPCM %"
+
+msgctxt "#30173"
+msgid "CDDA Volume %"
+msgstr "Głośność CDDA %"
+
+msgctxt "#30174"
+msgid "CD PSG Volume %"
+msgstr "Głośność CD PSG %"
+
+#~ msgctxt "#30036"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) Prędkość CD"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(CD) precyzja ADPCM"
+
+#~ msgctxt "#30038"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) Głośność ADPCM %"
+
+#~ msgctxt "#30039"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) Głośność CDDA %"
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(CD) Głośność CD PSG %"

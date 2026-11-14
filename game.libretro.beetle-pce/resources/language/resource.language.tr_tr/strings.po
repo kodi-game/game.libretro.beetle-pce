@@ -165,26 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr "Arcade Kart (Yeniden Başlatılmalı)"
 
-msgctxt "#30036"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD Hızı"
-
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr "(CD) ADPCM hassasiyeti"
-
-msgctxt "#30038"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Ses Seviyesi %"
-
-msgctxt "#30039"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Ses Seviyesi %"
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr "(CD) CD PSG Ses Seviyesi %"
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "Hareket Sınırını Kaldır"
@@ -700,3 +680,43 @@ msgstr ""
 msgctxt "#30169"
 msgid "HuC6280A"
 msgstr ""
+
+msgctxt "#30170"
+msgid "CD Speed"
+msgstr "CD Hızı"
+
+msgctxt "#30171"
+msgid "ADPCM precision"
+msgstr "ADPCM hassasiyeti"
+
+msgctxt "#30172"
+msgid "ADPCM Volume %"
+msgstr "ADPCM Ses Seviyesi %"
+
+msgctxt "#30173"
+msgid "CDDA Volume %"
+msgstr "CDDA Ses Seviyesi %"
+
+msgctxt "#30174"
+msgid "CD PSG Volume %"
+msgstr "CD PSG Ses Seviyesi %"
+
+#~ msgctxt "#30036"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD Hızı"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(CD) ADPCM hassasiyeti"
+
+#~ msgctxt "#30038"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Ses Seviyesi %"
+
+#~ msgctxt "#30039"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Ses Seviyesi %"
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(CD) CD PSG Ses Seviyesi %"

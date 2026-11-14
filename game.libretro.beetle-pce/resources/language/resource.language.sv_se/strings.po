@@ -165,26 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr "Arcade Card (Omstart krävs)"
 
-msgctxt "#30036"
-msgid "(CD) CD Speed"
-msgstr "(CD) CD-hastighet"
-
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr "(CD) ADPCM-precision"
-
-msgctxt "#30038"
-msgid "(CD) ADPCM Volume %"
-msgstr "(CD) ADPCM Volym %"
-
-msgctxt "#30039"
-msgid "(CD) CDDA Volume %"
-msgstr "(CD) CDDA Volym %"
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr "(CD) CD PSG Volym %"
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "Ingen blockfigursgräns"
@@ -331,7 +311,7 @@ msgstr "Dedikerad"
 
 msgctxt "#30077"
 msgid "Assign RetroPad's L3/R3 buttons as turbo hotkeys instead of buttons III and IV. Works only in 'Toggle' mode and only as long as nothing is assigned to the L3/R3 buttons. You can avoid remapping buttons III and IV when switching to 6-button controller mode with this."
-msgstr "Tilldela RetroPads L3/R3-knappar som snabbtangenter för turboläge i stället för knappar III och IV. Fungerar endast i läget ”Växel” och endast så länge inget är tilldelat L3/R3-knapparna. Du kan undvika omkartläggning av knappar III och IV när du växlar till kontrolläge för 6-knappskontroll med detta."
+msgstr "Tilldela RetroPads L3/R3-knappar som snabbtangenter för turbo-läge istället för knappar III och IV. Fungerar endast i \"Växel\"-läget och endast så länge inget är tilldelat L3/R3-knapparna. Du kan undvika omkartläggning av knappar III och IV när du växlar till 6-knapps kontrollläge med detta."
 
 msgctxt "#30078"
 msgid "Choose how fast button presses are repeated."
@@ -700,6 +680,46 @@ msgstr "HuC6280"
 msgctxt "#30169"
 msgid "HuC6280A"
 msgstr "HuC6280A"
+
+msgctxt "#30170"
+msgid "CD Speed"
+msgstr "CD-hastighet"
+
+msgctxt "#30171"
+msgid "ADPCM precision"
+msgstr "ADPCM-precision"
+
+msgctxt "#30172"
+msgid "ADPCM Volume %"
+msgstr "Volym för ADPCM %"
+
+msgctxt "#30173"
+msgid "CDDA Volume %"
+msgstr "Volym för CDDA %"
+
+msgctxt "#30174"
+msgid "CD PSG Volume %"
+msgstr "Volym för CD PSG %"
+
+#~ msgctxt "#30036"
+#~ msgid "(CD) CD Speed"
+#~ msgstr "(CD) CD-hastighet"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr "(CD) ADPCM-precision"
+
+#~ msgctxt "#30038"
+#~ msgid "(CD) ADPCM Volume %"
+#~ msgstr "(CD) ADPCM Volym %"
+
+#~ msgctxt "#30039"
+#~ msgid "(CD) CDDA Volume %"
+#~ msgstr "(CD) CDDA Volym %"
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr "(CD) CD PSG Volym %"
 
 #~ msgctxt "#30000"
 #~ msgid "Settings"
