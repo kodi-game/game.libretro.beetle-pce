@@ -716,3 +716,7 @@ msgstr "CD PSG hlasitosť %"
 #~ msgctxt "#30040"
 #~ msgid "(CD) CD PSG Volume %"
 #~ msgstr "(CD) PSG hlasitosť %"
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr ""
