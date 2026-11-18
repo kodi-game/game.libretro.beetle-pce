@@ -701,26 +701,6 @@ msgctxt "#30174"
 msgid "CD PSG Volume %"
 msgstr ""
 
-#~ msgctxt "#30036"
-#~ msgid "(CD) CD Speed"
-#~ msgstr ""
-
-#~ msgctxt "#30037"
-#~ msgid "(CD) ADPCM precision"
-#~ msgstr ""
-
-#~ msgctxt "#30038"
-#~ msgid "(CD) ADPCM Volume %"
-#~ msgstr ""
-
-#~ msgctxt "#30039"
-#~ msgid "(CD) CDDA Volume %"
-#~ msgstr ""
-
-#~ msgctxt "#30040"
-#~ msgid "(CD) CD PSG Volume %"
-#~ msgstr ""
-
 #~ msgctxt "#30000"
 #~ msgid "Settings"
 #~ msgstr "Nastavitve"
