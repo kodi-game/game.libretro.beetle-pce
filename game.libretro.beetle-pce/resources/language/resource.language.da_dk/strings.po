@@ -165,14 +165,6 @@ msgctxt "#30035"
 msgid "Arcade Card (Restart Required)"
 msgstr ""
 
-msgctxt "#30037"
-msgid "(CD) ADPCM precision"
-msgstr ""
-
-msgctxt "#30040"
-msgid "(CD) CD PSG Volume %"
-msgstr ""
-
 msgctxt "#30041"
 msgid "No Sprite Limit"
 msgstr "Ingen Sprite begrænsning"
@@ -708,6 +700,14 @@ msgstr "CDDA lydstyrke %"
 msgctxt "#30174"
 msgid "CD PSG Volume %"
 msgstr ""
+
+#~ msgctxt "#30037"
+#~ msgid "(CD) ADPCM precision"
+#~ msgstr ""
+
+#~ msgctxt "#30040"
+#~ msgid "(CD) CD PSG Volume %"
+#~ msgstr ""
 
 #~ msgctxt "#30036"
 #~ msgid "(CD) CD Speed"
